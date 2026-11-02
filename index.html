@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
   <title>FairBuy · Source catalog</title>
   <style>
     :root{font:15px/1.55 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#203e39;background:#f5f7f4;color-scheme:light}
@@ -71,7 +72,8 @@
       return element;
     };
     const fill = (select, values, all, format = label) => {
-      select.replaceChildren(node('option', all));
+      const allOption = node('option', all); allOption.value = '';
+      select.replaceChildren(allOption);
       for (const value of values) {
         const option = node('option', format(value)); option.value = value; select.append(option);
       }
