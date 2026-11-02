@@ -88,6 +88,7 @@ The FairBuy backend validates the same shape again on every sync. The catalog is
 
 ## Notes
 
+- If the first workflow run fails at `actions/configure-pages`, enable Pages once in **Settings → Pages → Build and deployment → GitHub Actions**, then re-run the workflow.
 - GitHub Pages can serve a cached copy for a short time after a deploy. If a manual sync shows the previous version, wait for the Pages deployment and retry.
 - The catalog is public. Do not put credentials, personal data or unpublished seller terms in it.
 - For `food_delivery`, menus and fees are per restaurant and delivery address; these entries are hints only and do not solve basket-level comparison.
