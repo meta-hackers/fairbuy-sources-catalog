@@ -1,0 +1,2402 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-02T10:48:47.391Z",
+  "entries": [
+    {
+      "domain": "alltricks.com",
+      "name": "Alltricks",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "FR",
+        "IT",
+        "DE",
+        "GB",
+        "ES"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "alternate.de",
+      "name": "Alternate",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "amazon.co.uk",
+      "name": "Amazon.co.uk",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.com",
+      "name": "Amazon.com",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.de",
+      "name": "Amazon.de",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "DE",
+        "AT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.es",
+      "name": "Amazon.es",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.fr",
+      "name": "Amazon.fr",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.it",
+      "name": "Amazon.it",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "ao.com",
+      "name": "AO",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "argos.co.uk",
+      "name": "Argos",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "asos.com",
+      "name": "ASOS",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "GB",
+        "IT",
+        "DE",
+        "FR",
+        "US",
+        "ES"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "automobile.it",
+      "name": "Automobile.it",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "autoscout24.at",
+      "name": "AutoScout24 Österreich",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "AT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "autoscout24.ch",
+      "name": "AutoScout24 Schweiz",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "autoscout24.de",
+      "name": "AutoScout24 Deutschland",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "autoscout24.fr",
+      "name": "AutoScout24 France",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "autoscout24.it",
+      "name": "AutoScout24 Italia",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "barnesandnoble.com",
+      "name": "Barnes & Noble",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "bauhaus.info",
+      "name": "Bauhaus",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "CH",
+        "DE",
+        "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "bergfreunde.de",
+      "name": "Bergfreunde",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "DE",
+        "AT",
+        "CH"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "bestbuy.com",
+      "name": "Best Buy",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "bhphotovideo.com",
+      "name": "B&H Photo Video",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "bike24.com",
+      "name": "Bike24",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "DE",
+        "AT",
+        "CH",
+        "FR",
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "boulanger.com",
+      "name": "Boulanger",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "brack.ch",
+      "name": "Brack",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "canyon.com",
+      "name": "Canyon",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": "global",
+      "priority": 2
+    },
+    {
+      "domain": "carwow.co.uk",
+      "name": "Carwow",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "caseking.de",
+      "name": "Caseking",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "castorama.fr",
+      "name": "Castorama",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "catawiki.com",
+      "name": "Catawiki",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": "global",
+      "priority": 1
+    },
+    {
+      "domain": "cdiscount.com",
+      "name": "Cdiscount",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "currys.co.uk",
+      "name": "Currys",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "cyberport.de",
+      "name": "Cyberport",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "darty.com",
+      "name": "Darty",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "decathlon.ch",
+      "name": "Decathlon Schweiz",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "decathlon.co.uk",
+      "name": "Decathlon UK",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "decathlon.de",
+      "name": "Decathlon Deutschland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "decathlon.fr",
+      "name": "Decathlon France",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "decathlon.it",
+      "name": "Decathlon Italia",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "deliveroo.be",
+      "name": "Deliveroo Belgium",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "BE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "deliveroo.co.uk",
+      "name": "Deliveroo UK",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "deliveroo.fr",
+      "name": "Deliveroo France",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "deliveroo.ie",
+      "name": "Deliveroo Ireland",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "IE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "deliveroo.it",
+      "name": "Deliveroo Italia",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "digitec.ch",
+      "name": "Digitec",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "doordash.com",
+      "name": "DoorDash",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "dxomark.com",
+      "name": "DXOMARK",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 1
+    },
+    {
+      "domain": "ebay.ch",
+      "name": "eBay.ch",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "ebay.co.uk",
+      "name": "eBay.co.uk",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "ebay.com",
+      "name": "eBay.com",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "ebay.de",
+      "name": "eBay.de",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "DE",
+        "AT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "ebay.fr",
+      "name": "eBay.fr",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "ebay.it",
+      "name": "eBay.it",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "eprice.it",
+      "name": "ePrice",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "etsy.com",
+      "name": "Etsy",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": "global",
+      "priority": 1
+    },
+    {
+      "domain": "euronics.it",
+      "name": "Euronics",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "farfetch.com",
+      "name": "Farfetch",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": "global",
+      "priority": 1
+    },
+    {
+      "domain": "feltrinelli.it",
+      "name": "La Feltrinelli",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "fnac.com",
+      "name": "Fnac",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "books",
+        "home"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "foodora.it",
+      "name": "foodora",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "fust.ch",
+      "name": "Fust",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "galaxus.ch",
+      "name": "Galaxus",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "geizhals.at",
+      "name": "Geizhals.at",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "geizhals.de",
+      "name": "Geizhals",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "glovoapp.com",
+      "name": "Glovo",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "IT",
+        "ES",
+        "FR",
+        "PT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "grubhub.com",
+      "name": "Grubhub",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "gsmarena.com",
+      "name": "GSMArena",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Phone specifications; not a shop"
+    },
+    {
+      "domain": "hm.com",
+      "name": "H&M",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": "global",
+      "priority": 2
+    },
+    {
+      "domain": "hoepli.it",
+      "name": "Hoepli",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "hornbach.ch",
+      "name": "Hornbach Schweiz",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "hornbach.de",
+      "name": "Hornbach Deutschland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "DE",
+        "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "ibs.it",
+      "name": "IBS",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "icecat.com",
+      "name": "Icecat",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Product-specification catalog; not a shop"
+    },
+    {
+      "domain": "idealo.co.uk",
+      "name": "idealo.co.uk",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "idealo.de",
+      "name": "idealo.de",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "idealo.es",
+      "name": "idealo.es",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "idealo.fr",
+      "name": "idealo.fr",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "idealo.it",
+      "name": "idealo.it",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "ikea.com",
+      "name": "IKEA",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "CH",
+        "IT",
+        "DE",
+        "AT",
+        "FR",
+        "GB",
+        "US",
+        "ES"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "interdiscount.ch",
+      "name": "Interdiscount",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "johnlewis.com",
+      "name": "John Lewis",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "just-eat.co.uk",
+      "name": "Just Eat UK",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "just-eat.fr",
+      "name": "Just Eat France",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "just-eat.it",
+      "name": "Just Eat Italia",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "kaufland.de",
+      "name": "Kaufland",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "kbb.com",
+      "name": "Kelley Blue Book",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "kleinanzeigen.de",
+      "name": "Kleinanzeigen",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "leboncoin.fr",
+      "name": "Leboncoin",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "leroymerlin.fr",
+      "name": "Leroy Merlin France",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "leroymerlin.it",
+      "name": "Leroy Merlin Italia",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "lieferando.de",
+      "name": "Lieferando",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "manomano.fr",
+      "name": "ManoMano France",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "manomano.it",
+      "name": "ManoMano Italia",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "mediamarkt.at",
+      "name": "MediaMarkt Österreich",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "AT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "mediamarkt.ch",
+      "name": "MediaMarkt Schweiz",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "mediamarkt.de",
+      "name": "MediaMarkt Deutschland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "mediaworld.it",
+      "name": "MediaWorld",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "microspot.ch",
+      "name": "Microspot",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "mindfactory.de",
+      "name": "Mindfactory",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "mobile.de",
+      "name": "mobile.de",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "monclick.it",
+      "name": "Monclick",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "mondadori.it",
+      "name": "Mondadori",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "newegg.com",
+      "name": "Newegg",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "notebookcheck.net",
+      "name": "Notebookcheck",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Laptop tests and specifications; not a shop"
+    },
+    {
+      "domain": "notebooksbilliger.de",
+      "name": "Notebooksbilliger",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "obi.de",
+      "name": "OBI",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "openicecat.com",
+      "name": "Open Icecat",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 3,
+      "note": "Open product-specification catalog; not a shop"
+    },
+    {
+      "domain": "opentable.com",
+      "name": "OpenTable",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "US",
+        "GB",
+        "DE",
+        "FR",
+        "IT",
+        "ES"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "orellfuessli.ch",
+      "name": "Orell Füssli",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "otto.de",
+      "name": "Otto",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "parkers.co.uk",
+      "name": "Parkers",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "payot.ch",
+      "name": "Payot",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "pcmag.com",
+      "name": "PCMag",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 1
+    },
+    {
+      "domain": "quattroruote.it",
+      "name": "Quattroruote",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "rei.com",
+      "name": "REI",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "ricardo.ch",
+      "name": "Ricardo",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3,
+      "note": "Swiss marketplace for new and used goods"
+    },
+    {
+      "domain": "rtings.com",
+      "name": "RTINGS",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "electronics",
+        "home"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Independent product tests; not a shop"
+    },
+    {
+      "domain": "saturn.de",
+      "name": "Saturn",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "screwfix.com",
+      "name": "Screwfix",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "subito.it",
+      "name": "Subito",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "target.com",
+      "name": "Target",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "techpowerup.com",
+      "name": "TechPowerUp",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": "global",
+      "priority": 1,
+      "note": "GPU/CPU database; not a shop"
+    },
+    {
+      "domain": "thalia.de",
+      "name": "Thalia",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "thefork.com",
+      "name": "TheFork",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "CH",
+        "IT",
+        "FR",
+        "ES",
+        "GB",
+        "US"
+      ],
+      "priority": 2,
+      "note": "Restaurant discovery and booking; not a delivery offer"
+    },
+    {
+      "domain": "tomshardware.com",
+      "name": "Tom's Hardware",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": "global",
+      "priority": 1
+    },
+    {
+      "domain": "toppreise.ch",
+      "name": "Toppreise",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "trony.it",
+      "name": "Trony",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "trovaprezzi.it",
+      "name": "Trovaprezzi",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "tutti.ch",
+      "name": "Tutti",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "ubereats.com",
+      "name": "Uber Eats",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "CH",
+        "IT",
+        "DE",
+        "FR",
+        "GB",
+        "US",
+        "ES"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "unieuro.it",
+      "name": "Unieuro",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "uniqlo.com",
+      "name": "Uniqlo",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "IT",
+        "FR",
+        "DE",
+        "GB",
+        "US",
+        "ES"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "very.co.uk",
+      "name": "Very",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "vinted.com",
+      "name": "Vinted",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "fashion",
+        "general"
+      ],
+      "countries": [
+        "IT",
+        "DE",
+        "FR",
+        "GB",
+        "US",
+        "ES"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "walmart.com",
+      "name": "Walmart",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "waterstones.com",
+      "name": "Waterstones",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "wayfair.com",
+      "name": "Wayfair",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US",
+        "GB",
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "willhaben.at",
+      "name": "Willhaben",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "wog.ch",
+      "name": "WOG",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "yeppon.it",
+      "name": "Yeppon",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "yoox.com",
+      "name": "YOOX",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "IT",
+        "DE",
+        "FR",
+        "GB",
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "zalando.ch",
+      "name": "Zalando Schweiz",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "zalando.co.uk",
+      "name": "Zalando UK",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "zalando.de",
+      "name": "Zalando Deutschland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "DE",
+        "AT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "zalando.fr",
+      "name": "Zalando France",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "zalando.it",
+      "name": "Zalando Italia",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "zara.com",
+      "name": "Zara",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": "global",
+      "priority": 2
+    }
+  ]
+}
