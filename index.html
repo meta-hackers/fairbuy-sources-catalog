@@ -9,7 +9,7 @@
     :root{font:15px/1.55 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#203e39;background:#f5f7f4;color-scheme:light}
     *{box-sizing:border-box}body{margin:0}header{display:flex;justify-content:space-between;align-items:center;gap:18px;padding:20px 4%;border-bottom:1px solid #dce5de;background:#fff}
     .brand{font-weight:800;font-size:23px;color:#163b32;text-decoration:none}.brand span{font-size:13px;font-weight:500;margin-left:12px;padding-left:12px;border-left:1px solid #cbd8ce;color:#60776e}
-    header nav{display:flex;gap:16px;font-size:13px}header a{color:#225c48}
+    header nav{display:flex;gap:16px;flex-wrap:wrap;font-size:13px}header a{color:#225c48}
     main{max-width:1440px;margin:40px auto;padding:0 4%}h1{font-size:34px;letter-spacing:-1px;line-height:1.2;margin:10px 0}h2{font-size:20px;margin:0 0 14px}
     p{margin:10px 0;color:#526d62}.eyebrow{font-size:11px;letter-spacing:2px;font-weight:700;color:#558270}
     .policy{font-size:12px;color:#687e73;max-width:1000px}.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:24px 0}
@@ -34,12 +34,13 @@
       <a href="https://github.com/meta-hackers/fairbuy-sources-catalog">Repository</a>
       <a href="https://github.com/meta-hackers/fairbuy">FairBuy app</a>
       <a href="sources.json">sources.json</a>
+      <a href="schema/source-catalog.schema.json">JSON Schema</a>
     </nav>
   </header>
   <main>
     <span class="eyebrow">DISCOVERY</span>
     <h1>Where FairBuy looks first.</h1>
-    <p class="policy">This page is the public, read-only view of the FairBuy discovery source catalog. The FairBuy app fetches <a href="sources.json" class="mono">sources.json</a> only when an admin clicks <strong>Sync from GitHub</strong>, validates every entry, and keeps the last-known-good catalog if the fetch fails. Discovery never fetches this page directly. To change the catalog, edit <span class="mono">sources.json</span> and open a pull request; CI validates it before GitHub Pages publishes it.</p>
+    <p class="policy">This page is the public, read-only view of the FairBuy discovery source catalog. By default, the FairBuy app fetches <a href="sources.json" class="mono">sources.json</a> when an admin clicks <strong>Sync from GitHub</strong>; deployments can also enable background startup sync with <span class="mono">CATALOG_SYNC_ON_START=true</span>. Every sync validates the entries and preserves the last-known-good catalog on failure. On startup, the app loads its database-backed catalog; there is no bundled runtime fallback. Discovery never fetches this page directly. To change the catalog, edit <span class="mono">sources.json</span> and open a pull request; the publishing workflow validates it before deploying to GitHub Pages.</p>
 
     <div class="metrics" id="metrics"></div>
 

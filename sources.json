@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T00:01:00.000Z",
+  "updatedAt": "2026-11-03T00:03:00.000Z",
   "entries": [
     {
       "domain": "6pm.com",
@@ -1408,23 +1408,6 @@
       "priority": 2
     },
     {
-      "domain": "burlingtoncoatfactory.com",
-      "name": "Burlington",
-      "roles": [
-        "seller"
-      ],
-      "verticals": [
-        "fashion",
-        "home"
-      ],
-      "countries": [
-        "US"
-      ],
-      "priority": 2,
-      "note": "Legacy Burlington domain; merchandise is sold in stores, not through online checkout. Promotional examples are not purchasable online offers.",
-      "enabled": false
-    },
-    {
       "domain": "buscalibre.cl",
       "name": "Buscalibre",
       "roles": [
@@ -2795,22 +2778,6 @@
       "priority": 3
     },
     {
-      "domain": "foodora.it",
-      "name": "foodora",
-      "roles": [
-        "marketplace"
-      ],
-      "verticals": [
-        "food_delivery"
-      ],
-      "countries": [
-        "IT"
-      ],
-      "priority": 2,
-      "note": "Foodora exited Italy in 2018; its Italian business was acquired by Glovo. Use glovoapp.com for current discovery.",
-      "enabled": false
-    },
-    {
       "domain": "footlocker.com",
       "name": "Foot Locker",
       "roles": [
@@ -3690,22 +3657,6 @@
       "priority": 3
     },
     {
-      "domain": "just-eat.fr",
-      "name": "Just Eat France",
-      "roles": [
-        "marketplace"
-      ],
-      "verticals": [
-        "food_delivery"
-      ],
-      "countries": [
-        "FR"
-      ],
-      "priority": 2,
-      "note": "Just Eat ceased operations in France on 2024-12-09 and no longer accepts orders.",
-      "enabled": false
-    },
-    {
       "domain": "just-eat.it",
       "name": "Just Eat Italia",
       "roles": [
@@ -4544,23 +4495,6 @@
       "priority": 2
     },
     {
-      "domain": "microspot.ch",
-      "name": "Microspot",
-      "roles": [
-        "seller"
-      ],
-      "verticals": [
-        "computers",
-        "electronics"
-      ],
-      "countries": [
-        "CH"
-      ],
-      "priority": 2,
-      "note": "Former shop merged into Interdiscount; microspot.ch redirects to interdiscount.ch. Use the existing Interdiscount entry instead.",
-      "enabled": false
-    },
-    {
       "domain": "migros.ch",
       "name": "Migros",
       "roles": [
@@ -4730,25 +4664,6 @@
         "DE"
       ],
       "priority": 2
-    },
-    {
-      "domain": "mydeal.com.au",
-      "name": "MyDeal",
-      "roles": [
-        "marketplace"
-      ],
-      "verticals": [
-        "electronics",
-        "home",
-        "fashion",
-        "general"
-      ],
-      "countries": [
-        "AU"
-      ],
-      "priority": 2,
-      "note": "MyDeal ceased trading on 2025-09-30; its marketplace offer moved to BIG W. Remaining account and support pages are not current offers.",
-      "enabled": false
     },
     {
       "domain": "nanoreview.net",
@@ -5129,7 +5044,8 @@
       ],
       "countries": "global",
       "priority": 3,
-      "note": "Open product-specification catalog; not a shop"
+      "note": "Disabled pending HTTPS repair: certificate hostname mismatch on bare and www hostnames. HTTP redirects to icecat.biz; verify any replacement separately. Specification catalog, not a shop.",
+      "enabled": false
     },
     {
       "domain": "opentable.com",
@@ -5855,24 +5771,6 @@
       "note": "Online shop runs on simple.ripley.cl"
     },
     {
-      "domain": "riteaid.com",
-      "name": "Rite Aid",
-      "roles": [
-        "seller"
-      ],
-      "verticals": [
-        "health",
-        "beauty",
-        "general"
-      ],
-      "countries": [
-        "US"
-      ],
-      "priority": 2,
-      "note": "All Rite Aid retail stores closed in October 2025. Keep discovery disabled until a current retail offering is verified; records and relaunch notices are not offers.",
-      "enabled": false
-    },
-    {
       "domain": "rocca1794.com",
       "name": "Rocca 1794",
       "roles": [
@@ -5914,23 +5812,6 @@
         "DE"
       ],
       "priority": 2
-    },
-    {
-      "domain": "rossstores.com",
-      "name": "Ross Dress for Less",
-      "roles": [
-        "seller"
-      ],
-      "verticals": [
-        "fashion",
-        "home"
-      ],
-      "countries": [
-        "US"
-      ],
-      "priority": 2,
-      "note": "Ross does not sell merchandise online. Website imagery is representative and prices and availability vary by store; not an online offer source.",
-      "enabled": false
     },
     {
       "domain": "rtings.com",
@@ -6035,7 +5916,8 @@
         "GB"
       ],
       "priority": 2,
-      "note": "Official UK online store"
+      "note": "Disabled: bare and www hostnames return NXDOMAIN in both Google and Cloudflare DNS. Formerly listed as Seiko Boutique UK; verify the correct purchasing hostname before re-enabling.",
+      "enabled": false
     },
     {
       "domain": "seikousa.com",
@@ -6644,7 +6526,9 @@
       "countries": [
         "IT"
       ],
-      "priority": 2
+      "priority": 2,
+      "note": "Disabled pending HTTPS verification: repeated certificate issuer-chain validation failures on bare and www hostnames. May depend on client trust store; not evidence of business closure.",
+      "enabled": false
     },
     {
       "domain": "trovaprezzi.it",

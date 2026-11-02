@@ -107,3 +107,57 @@ Worn & Wound has affiliated retail on another hostname; its editorial domain is
 kept context-only. TUDOR's retailer links do not make its brand domain a seller.
 Pre-owned watch listings must be compared by reference, condition, accessories,
 service history and warranty rather than headline price alone.
+
+## Disabled-entry removal — 2026-11-03
+
+Removed the seven disabled entries at the maintainer's request:
+`burlingtoncoatfactory.com`, `foodora.it`, `just-eat.fr`, `microspot.ch`,
+`mydeal.com.au`, `riteaid.com` and `rossstores.com`. The catalog now contains
+458 entries, all enabled. No enabled entries were changed or removed.
+The earlier findings and evidence above are retained as historical review notes;
+the removed entries no longer participate in catalog-based role checks.
+
+## Automated accessibility check — 2026-11-03
+
+Checked all 465 domains before the removal above using HTTPS homepage GETs,
+following redirects, with a 20-second timeout and a `www` fallback on errors.
+The first pass produced 275 successful HTTP responses, 168 HTTP error responses,
+and 22 transport/TLS failures. Retried the 22 transport/TLS failures using HTTP/1.1
+and a 15-second timeout; nine then returned HTTP 200 and four returned HTTP errors.
+
+Remaining connection issues from this environment:
+
+| Domain(s) | Observation |
+|---|---|
+| `seikoco.com` | DNS resolution failed for both bare and `www` hostnames. |
+| `openicecat.com` | TLS certificate hostname mismatch on both hostnames. |
+| `trony.it` | TLS certificate issuer-chain verification failed on both hostnames. This may depend on the client's trust store. |
+| `uhrzeit.org` | Initial connection timeouts; HTTP/1.1 retry could not connect. |
+| `bestbuy.com`, `johnlewis.com`, `kroger.com`, `tractorsupply.com`, `yodobashi.com` | HTTP/2 resets followed by HTTP/1.1 timeouts. |
+
+These observations do not establish worldwide unavailability or business closure.
+HTTP errors (including 403/429), bot challenges, geolocation redirects and homepage
+404s are not proof that a retailer is inaccessible to shoppers. Successful homepage
+responses do not verify product listings or checkout. No additional sources were
+removed or disabled on the basis of this automated check.
+
+## Accessibility follow-up and disabling — 2026-11-03
+
+At the maintainer's request, disabled three discovery hints pending repair or
+verification. The catalog retains 458 entries, of which 455 are enabled.
+
+- `seikoco.com`: both [Google DNS](https://dns.google/resolve?name=seikoco.com&type=A)
+  and [Cloudflare DNS](https://cloudflare-dns.com/dns-query?name=seikoco.com&type=A)
+  returned NXDOMAIN for the bare and `www` hostnames.
+- `openicecat.com`: repeated HTTPS certificate hostname mismatches on both
+  hostnames. HTTP still redirects to `icecat.biz`, which responds with a bot
+  challenge, so the service is not completely offline. Verify a replacement
+  hostname separately before changing the catalog.
+- `trony.it`: repeated HTTPS certificate issuer-chain verification failures.
+  Disabled conservatively pending verification, not as a claim of worldwide
+  unavailability or business closure; the failure may depend on the trust store.
+
+Preserved names, roles, countries, verticals and priorities. Timeout-only and
+HTTP-blocked sources remain enabled because these checks do not establish that
+their websites are broken. Search results also show a shop at `www.uhrzeit.org`,
+despite connection failures from this environment.

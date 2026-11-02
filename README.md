@@ -4,9 +4,10 @@ The public source catalog used by [FairBuy](https://github.com/meta-hackers/fair
 
 - **Published page:** https://meta-hackers.github.io/fairbuy-sources-catalog/
 - **Machine-readable JSON:** https://meta-hackers.github.io/fairbuy-sources-catalog/sources.json
+- **JSON Schema:** https://meta-hackers.github.io/fairbuy-sources-catalog/schema/source-catalog.schema.json
 - **Repository:** https://github.com/meta-hackers/fairbuy-sources-catalog
 
-The catalog is a static JSON file. FairBuy fetches it only when an admin clicks **Sync from GitHub** in the backoffice, validates every entry, and keeps the last-known-good catalog if the fetch fails. Discovery never fetches this page directly.
+The catalog is a static JSON file. By default, FairBuy fetches it when an admin clicks **Sync from GitHub** in the backoffice. Deployments can also enable a background startup sync with `CATALOG_SYNC_ON_START=true`. Every sync validates the entries and preserves the last-known-good catalog on failure. Discovery never fetches this page directly.
 
 ## Files
 
@@ -87,11 +88,11 @@ The FairBuy backend validates the same shape again on every sync. The catalog is
 
 ## How FairBuy consumes it
 
-- The app keeps a bundled fallback snapshot so it still works when GitHub is unavailable.
-- On startup, it optionally fetches the published JSON in the background.
-- An admin can trigger a manual sync from the backoffice.
-- A successful sync replaces the in-memory catalog atomically. A failed fetch or invalid payload leaves the previous catalog in place and shows the error.
-- Discovery reads the cached catalog; it never waits on GitHub.
+- On startup, the app loads the last successfully synced catalog from its database. There is no bundled runtime fallback snapshot; before the first successful sync, the catalog is empty.
+- `CATALOG_SYNC_ON_START` defaults to `false`. Setting it to `true` additionally fetches the published JSON in the background after the database catalog is loaded.
+- An admin can trigger a manual sync from the backoffice with **Sync from GitHub**.
+- A successful sync replaces the database catalog in one transaction, then updates the in-memory cache. A failed fetch, invalid payload or database write leaves the previous catalog in place and reports the error.
+- Discovery reads the database-backed cache; it never waits on GitHub.
 
 ## Notes
 
