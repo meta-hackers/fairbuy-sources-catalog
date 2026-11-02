@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T00:00:00.000Z",
+  "updatedAt": "2026-11-03T00:01:00.000Z",
   "entries": [
     {
       "domain": "6pm.com",
@@ -1326,6 +1326,21 @@
       "priority": 2
     },
     {
+      "domain": "breitling.com",
+      "name": "Breitling",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Official Swiss e-boutique at /ch-en; Swiss sales terms explicitly support delivery in Switzerland. Other regional shops require separate verification."
+    },
+    {
       "domain": "bremont.com",
       "name": "Bremont",
       "roles": [
@@ -1653,6 +1668,22 @@
         "CL"
       ],
       "priority": 2
+    },
+    {
+      "domain": "christ-swiss.ch",
+      "name": "CHRIST Switzerland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches",
+        "jewelry"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss watch and jewelry chain with online checkout; separate shop from christ.de and christ.at."
     },
     {
       "domain": "christ.at",
@@ -2609,6 +2640,21 @@
       "priority": 2
     },
     {
+      "domain": "exlibris.ch",
+      "name": "Ex Libris",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss online bookseller; distinguish physical books from e-books and account for any small-order surcharge."
+    },
+    {
       "domain": "falabella.com",
       "name": "Falabella",
       "roles": [
@@ -3533,6 +3579,21 @@
       "priority": 2
     },
     {
+      "domain": "jenni-uhren.ch",
+      "name": "Jenni Uhren",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Zurich watch retailer with online checkout and Swiss delivery; new and pre-owned watches have different condition and warranty terms."
+    },
+    {
       "domain": "johnlewis.com",
       "name": "John Lewis",
       "roles": [
@@ -3567,6 +3628,37 @@
       ],
       "countries": "global",
       "priority": 2
+    },
+    {
+      "domain": "jowissa.com",
+      "name": "Jowissa",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches",
+        "jewelry"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Official Swiss brand shop; select the Switzerland/CHF storefront at /en-ch. Shipping charges and delivery availability are checked per order."
+    },
+    {
+      "domain": "jumbo.ch",
+      "name": "JUMBO Switzerland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss DIY and garden retailer; bulky-item delivery charges and collection availability vary by product. Unrelated to jumbo.cl."
     },
     {
       "domain": "jumbo.cl",
@@ -3842,6 +3934,25 @@
       "priority": 3
     },
     {
+      "domain": "landi.ch",
+      "name": "LANDI",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home",
+        "pets",
+        "groceries",
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss online shop for garden, household, pet and leisure products; select postcode or store for delivery dates and collection availability."
+    },
+    {
       "domain": "leboncoin.fr",
       "name": "Leboncoin",
       "roles": [
@@ -4093,6 +4204,31 @@
         "IT"
       ],
       "priority": 2
+    },
+    {
+      "domain": "manor.ch",
+      "name": "Manor",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "fashion",
+        "beauty",
+        "home",
+        "watches",
+        "jewelry",
+        "toys_baby",
+        "electronics",
+        "sports",
+        "office",
+        "groceries"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss department store and partner platform; partner-shipped items are identified on listings and may arrive separately. Manor remains the contractual seller under its terms."
     },
     {
       "domain": "marionnaud.ch",
@@ -4645,6 +4781,22 @@
       "priority": 2
     },
     {
+      "domain": "nettoshop.ch",
+      "name": "Nettoshop",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home",
+        "electronics"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss household-appliance shop; compare delivery-only prices separately from installation, removal and other paid services."
+    },
+    {
       "domain": "newegg.ca",
       "name": "Newegg Canada",
       "roles": [
@@ -4869,6 +5021,22 @@
       "priority": 2
     },
     {
+      "domain": "ochsnersport.ch",
+      "name": "OCHSNER SPORT",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports",
+        "fashion"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss sports retailer; some products ship directly from external partners. Bulky equipment and bikes have separate delivery arrangements."
+    },
+    {
       "domain": "offerup.com",
       "name": "OfferUp",
       "roles": [
@@ -5009,6 +5177,22 @@
         "CH"
       ],
       "priority": 3
+    },
+    {
+      "domain": "oris.ch",
+      "name": "Oris",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "US",
+        "GB"
+      ],
+      "priority": 2,
+      "note": "Official e-shop; published sales terms name US and UK shipping only. Swiss headquarters and CHF catalog prices do not establish Swiss delivery eligibility."
     },
     {
       "domain": "otto.de",
@@ -5315,6 +5499,26 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "qoqa.ch",
+      "name": "QoQa",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "watches",
+        "general"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 1,
+      "note": "Swiss limited-time deals, including occasional watch offers; archived or sold-out deal pages are not current offers. Check expiry, stock and reservation-only terms."
     },
     {
       "domain": "quattroruote.it",
@@ -6236,6 +6440,22 @@
       "note": "Restaurant discovery and booking; not a delivery offer"
     },
     {
+      "domain": "theswisscollector.com",
+      "name": "The Swiss Collector",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches",
+        "jewelry"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss pre-owned luxury watch and jewelry retailer with online checkout; condition, service history, accessories and warranty differ per listing."
+    },
+    {
       "domain": "thomann.de",
       "name": "Thomann",
       "roles": [
@@ -6307,6 +6527,19 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "timeandwatches.com",
+      "name": "Time and Watches",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 1,
+      "note": "Watch news, reviews and technical articles; editorial prices are context, not purchasable offers."
     },
     {
       "domain": "tissotwatches.com",
@@ -6435,6 +6668,19 @@
       "priority": 2
     },
     {
+      "domain": "tudorwatch.com",
+      "name": "TUDOR",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Official watch specifications and retailer locator; online purchasing links lead to authorized retailers, not checkout on this domain."
+    },
+    {
       "domain": "tutti.ch",
       "name": "Tutti",
       "roles": [
@@ -6492,6 +6738,38 @@
       ],
       "countries": "global",
       "priority": 2
+    },
+    {
+      "domain": "uhren-shop.ch",
+      "name": "Uhren-Shop Schweiz",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches",
+        "jewelry"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss online watch shop operated by Au Bijou in Basel; assortment also includes clocks and alarms, which must not be confused with wristwatches."
+    },
+    {
+      "domain": "uhrenschmuck24.ch",
+      "name": "CHRISTIAN Uhrenschmuck24",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches",
+        "jewelry"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss watch and jewelry retailer CHRISTIAN AG; publishes Swiss shipping terms and online prices. Distinct from CHRIST Switzerland."
     },
     {
       "domain": "uhrzeit.org",
@@ -6622,6 +6900,23 @@
       "priority": 2
     },
     {
+      "domain": "victorinox.com",
+      "name": "Victorinox",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches",
+        "home",
+        "fashion"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Official Swiss storefront at /en-CH for watches, cutlery, tools and travel gear; Swiss shipping eligibility is explicitly documented."
+    },
+    {
       "domain": "vinted.com",
       "name": "Vinted",
       "roles": [
@@ -6732,6 +7027,21 @@
         "US"
       ],
       "priority": 3
+    },
+    {
+      "domain": "watchfinder.ch",
+      "name": "Watchfinder Switzerland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2,
+      "note": "Swiss regional store operated by Watchfinder Switzerland SA; pre-owned watches with listing-specific condition and accessories. Separate hostname from watchfinder.com."
     },
     {
       "domain": "watchfinder.com",
@@ -6877,6 +7187,19 @@
         "CH"
       ],
       "priority": 2
+    },
+    {
+      "domain": "wornandwound.com",
+      "name": "Worn & Wound",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Watch reviews, news and buying guides; affiliated Windup retail operates on a separate domain. Editorial prices are not offers."
     },
     {
       "domain": "yeppon.it",

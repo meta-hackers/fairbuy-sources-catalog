@@ -67,3 +67,43 @@ domain a forbidden offer URL.
 6. Disable closed or unsuitable hints rather than deleting their history. Verify
    any proposed successor independently before adding or enabling it.
 7. Update `updatedAt` and run `node scripts/validate.mjs`.
+
+## Switzerland and watches expansion — 2026-11-03
+
+Added 20 sources, bringing the catalog to 465 entries (458 enabled):
+16 explicitly cover Switzerland, 15 cover watches, and 11 belong to both groups.
+These are overlapping counts. Existing entries and priorities were left unchanged.
+New shops default to secondary priority (2); QoQa and Time and Watches use 1.
+Only the countries reviewed here are assigned; this is not an exhaustive list of
+each brand's international delivery coverage.
+
+| New domain | Scope and classification | Official evidence |
+|---|---|---|
+| `breitling.com` | Swiss official watch seller | [CHF listings with Add to bag](https://www.breitling.com/ch-en/watches/all/), [Swiss delivery eligibility](https://www.breitling.com/ch-en/terms-and-conditions) |
+| `christ-swiss.ch` | Swiss watch/jewelry seller; distinct from German and Austrian CHRIST shops | [Watch shop](https://www.christ-swiss.ch/de/uhren/c/m_0200), [Swiss delivery policy](https://www.christ-swiss.ch/de/lieferungundabholung) |
+| `exlibris.ch` | Swiss bookseller | [Online assortment and basket](https://www.exlibris.ch/de), [Swiss delivery FAQ](https://www.exlibris.ch/de/kontakt-hilfe/faq) |
+| `jenni-uhren.ch` | Swiss watch seller, including pre-owned stock | [Priced Certina listings and online shop](https://www.jenni-uhren.ch/en/certina), [checkout/payment and Swiss shipping terms](https://www.jenni-uhren.ch/en/agb) |
+| `jowissa.com` | Official Swiss watch/jewelry seller | [Swiss CHF storefront](https://www.jowissa.com/en-ch), [shipping policy](https://www.jowissa.com/en-ch/policies/shipping-policy) |
+| `jumbo.ch` | Swiss DIY/home seller; unrelated to Chilean Jumbo | [Online shop](https://www.jumbo.ch/de), [delivery options](https://www.jumbo.ch/de/service/lieferung.html) |
+| `landi.ch` | Swiss garden, home, pet, grocery, clothing and leisure seller | [Shop categories and ordering](https://www.landi.ch/shop), [delivery FAQ](https://www.landi.ch/laden/service/Haeufig-gestellte-Fragen-FAQ) |
+| `manor.ch` | Swiss department-store seller and partner platform | [Watch listings](https://www.manor.ch/fr/shop/bijoux-montres/montres/c/watches), [assortment](https://www.manor.ch/fr), [delivery](https://www.manor.ch/fr/u/lieferbedingungen), [partner program](https://www.manor.ch/fr/u/marketplace) |
+| `nettoshop.ch` | Swiss appliance/electronics seller | [Online shop](https://www.nettoshop.ch), [Swiss delivery terms](https://www.nettoshop.ch/agb), [installation extras](https://www.nettoshop.ch/lieferung_montage) |
+| `ochsnersport.ch` | Swiss sports/clothing seller | [Online shop](https://www.ochsnersport.ch/de-ch), [Swiss delivery eligibility](https://www.ochsnersport.ch/de-ch/versand-lieferung), [partner direct-shipping FAQ](https://www.ochsnersport.ch/de-ch/faq) |
+| `oris.ch` | Official watch seller for US and UK; **not tagged CH** | [Online catalog](https://www.oris.ch/en-US/product/watch), [sales terms naming US and Great Britain destinations](https://www.oris.ch/en-CH/conditions-sale) |
+| `qoqa.ch` | Swiss limited-time deal seller, including occasional watches | [Current categories](https://www.qoqa.ch), [Swiss terms](https://www.qoqa.ch/fr/terms_of_use), [watch offer demonstrating reservation-only caveat](https://www.qoqa.ch/fr/offers/86125) |
+| `theswisscollector.com` | Swiss pre-owned watch/jewelry seller | [Shop](https://theswisscollector.com/en), [Swiss delivery terms](https://theswisscollector.com/conditions-generales-de-ventes), [payments FAQ](https://theswisscollector.com/en/faq) |
+| `timeandwatches.com` | Global watch editorial/review context, not offers | [News, reviews and mechanical watch coverage](https://www.timeandwatches.com/) |
+| `tudorwatch.com` | Global official specifications, not a direct seller | [Official catalog](https://www.tudorwatch.com/en/watches), [online purchasing is through external authorized retailers](https://www.tudorwatch.com/en/buy/online/unitedstates) |
+| `uhren-shop.ch` | Swiss watch/jewelry seller; also stocks clocks | [CHF prices, basket and checkout](https://www.uhren-shop.ch), [Basel operator and contact](https://www.uhren-shop.ch/de/kontaktieren-sie-uns-2018) |
+| `uhrenschmuck24.ch` | Swiss watch/jewelry seller CHRISTIAN AG | [Priced assortment and checkout](https://www.uhrenschmuck24.ch), [shipping policy](https://www.uhrenschmuck24.ch/versand) |
+| `victorinox.com` | Official Swiss watch, home and travel-gear seller | [Swiss storefront](https://www.victorinox.com/en-CH), [Swiss delivery policy](https://www.victorinox.com/en-CH/FAQ-Shipping/cms/service-faq-delivery) |
+| `watchfinder.ch` | Swiss pre-owned watch seller on its own regional hostname | [Swiss shop](https://www.watchfinder.ch/en/), [Swiss delivery terms](https://www.watchfinder.ch/en/terms-and-conditions) |
+| `wornandwound.com` | Global watch reviews/editorial, not offers | [Reviews](https://wornandwound.com/watch-reviews/), [about the publication](https://wornandwound.com/about-the-blog/) |
+
+Manor is tagged both seller and marketplace to expose its external-partner
+assortment, but its terms identify Manor as the contractual seller. Partner shipping
+alone is not sufficient to classify every dropshipping retailer as a marketplace.
+Worn & Wound has affiliated retail on another hostname; its editorial domain is
+kept context-only. TUDOR's retailer links do not make its brand domain a seller.
+Pre-owned watch listings must be compared by reference, condition, accessories,
+service history and warranty rather than headline price alone.
