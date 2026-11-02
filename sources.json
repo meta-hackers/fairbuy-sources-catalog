@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T16:05:02.691Z",
+  "updatedAt": "2026-11-03T00:00:00.000Z",
   "entries": [
+    {
+      "domain": "6pm.com",
+      "name": "6pm",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
     {
       "domain": "abc.cl",
       "name": "ABC",
@@ -20,6 +35,20 @@
       ],
       "priority": 1,
       "note": "Department store; lapolar.cl redirects here"
+    },
+    {
+      "domain": "abercrombie.com",
+      "name": "Abercrombie & Fitch",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "ablogtowatch.com",
@@ -48,6 +77,34 @@
         "US"
       ],
       "priority": 1
+    },
+    {
+      "domain": "academy.com",
+      "name": "Academy Sports + Outdoors",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "acehardware.com",
+      "name": "Ace Hardware",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "adidas.cl",
@@ -80,6 +137,20 @@
       "priority": 2
     },
     {
+      "domain": "advanceautoparts.com",
+      "name": "Advance Auto Parts",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "ah.nl",
       "name": "Albert Heijn",
       "roles": [
@@ -105,6 +176,20 @@
       "countries": "global",
       "priority": 2,
       "note": "Official brand site; watches are sold via authorized boutiques and dealers only"
+    },
+    {
+      "domain": "albertsons.com",
+      "name": "Albertsons",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "alibaba.com",
@@ -475,6 +560,21 @@
       "priority": 2
     },
     {
+      "domain": "anthropologie.com",
+      "name": "Anthropologie",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "ao.com",
       "name": "AO",
       "roles": [
@@ -671,6 +771,20 @@
         "IT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "autozone.com",
+      "name": "AutoZone",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "baby-walz.de",
@@ -983,6 +1097,21 @@
       "priority": 2
     },
     {
+      "domain": "belk.com",
+      "name": "Belk",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "bergfreunde.de",
       "name": "Bergfreunde",
       "roles": [
@@ -1002,7 +1131,8 @@
       "domain": "bestbuy.ca",
       "name": "Best Buy Canada",
       "roles": [
-        "seller"
+        "seller",
+        "marketplace"
       ],
       "verticals": [
         "computers",
@@ -1020,7 +1150,8 @@
       "domain": "bestbuy.com",
       "name": "Best Buy",
       "roles": [
-        "seller"
+        "seller",
+        "marketplace"
       ],
       "verticals": [
         "computers",
@@ -1062,6 +1193,21 @@
       "priority": 2
     },
     {
+      "domain": "biglots.com",
+      "name": "Big Lots",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "bike24.com",
       "name": "Bike24",
       "roles": [
@@ -1076,6 +1222,52 @@
         "CH",
         "FR",
         "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "bjs.com",
+      "name": "BJ's Wholesale Club",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "bloomingdales.com",
+      "name": "Bloomingdale's",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "beauty",
+        "home",
+        "jewelry"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "bluenile.com",
+      "name": "Blue Nile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "jewelry"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -1199,6 +1391,23 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "burlingtoncoatfactory.com",
+      "name": "Burlington",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2,
+      "note": "Legacy Burlington domain; merchandise is sold in stores, not through online checkout. Promotional examples are not purchasable online offers.",
+      "enabled": false
     },
     {
       "domain": "buscalibre.cl",
@@ -1536,6 +1745,20 @@
       "note": "Country shops run on at., ch., de., fi., fr. and nl. subdomains of citizenwatch.eu"
     },
     {
+      "domain": "containerstore.com",
+      "name": "The Container Store",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "coolblue.be",
       "name": "Coolblue België",
       "roles": [
@@ -1616,6 +1839,35 @@
         "books",
         "auto",
         "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "crateandbarrel.com",
+      "name": "Crate & Barrel",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "crutchfield.com",
+      "name": "Crutchfield",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "music"
       ],
       "countries": [
         "US"
@@ -1840,6 +2092,21 @@
       "priority": 3
     },
     {
+      "domain": "dermstore.com",
+      "name": "Dermstore",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty",
+        "health"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "dhgate.com",
       "name": "DHgate",
       "roles": [
@@ -1886,6 +2153,22 @@
       "priority": 3
     },
     {
+      "domain": "dillards.com",
+      "name": "Dillard's",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home",
+        "beauty"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "dm.at",
       "name": "dm Österreich",
       "roles": [
@@ -1926,6 +2209,39 @@
       ],
       "countries": [
         "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "dollargeneral.com",
+      "name": "Dollar General",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "groceries",
+        "health",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "dollartree.com",
+      "name": "Dollar Tree",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "home",
+        "toys_baby"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -1984,6 +2300,20 @@
         "DE"
       ],
       "priority": 3
+    },
+    {
+      "domain": "dsw.com",
+      "name": "DSW",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "dv247.com",
@@ -2302,10 +2632,25 @@
       "note": "Chile's largest department store and marketplace"
     },
     {
+      "domain": "famousfootwear.com",
+      "name": "Famous Footwear",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "farfetch.com",
       "name": "Farfetch",
       "roles": [
-        "seller"
+        "marketplace"
       ],
       "verticals": [
         "fashion"
@@ -2357,6 +2702,22 @@
       "priority": 2
     },
     {
+      "domain": "fivebelow.com",
+      "name": "Five Below",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "toys_baby",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "flaconi.de",
       "name": "Flaconi",
       "roles": [
@@ -2399,7 +2760,9 @@
       "countries": [
         "IT"
       ],
-      "priority": 2
+      "priority": 2,
+      "note": "Foodora exited Italy in 2018; its Italian business was acquired by Glovo. Use glovoapp.com for current discovery.",
+      "enabled": false
     },
     {
       "domain": "footlocker.com",
@@ -2536,6 +2899,20 @@
       "priority": 2
     },
     {
+      "domain": "gap.com",
+      "name": "Gap",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "geizhals.at",
       "name": "Geizhals.at",
       "roles": [
@@ -2579,10 +2956,23 @@
       "countries": [
         "IT",
         "ES",
-        "FR",
         "PT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "gnc.com",
+      "name": "GNC",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "health"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "goldsmiths.co.uk",
@@ -2713,6 +3103,21 @@
       "priority": 2
     },
     {
+      "domain": "harborfreight.com",
+      "name": "Harbor Freight",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home",
+        "auto"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "harveynorman.com.au",
       "name": "Harvey Norman",
       "roles": [
@@ -2725,6 +3130,36 @@
       ],
       "countries": [
         "AU"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "heb.com",
+      "name": "H-E-B",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "hibbett.com",
+      "name": "Hibbett Sports",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports",
+        "fashion"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -2807,6 +3242,24 @@
       "countries": [
         "DE",
         "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "hsn.com",
+      "name": "HSN",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "electronics",
+        "home",
+        "beauty",
+        "fashion"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -3051,6 +3504,35 @@
       "priority": 2
     },
     {
+      "domain": "jcpenney.com",
+      "name": "JCPenney",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "jcrew.com",
+      "name": "J.Crew",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "johnlewis.com",
       "name": "John Lewis",
       "roles": [
@@ -3127,7 +3609,9 @@
       "countries": [
         "FR"
       ],
-      "priority": 2
+      "priority": 2,
+      "note": "Just Eat ceased operations in France on 2024-12-09 and no longer accepts orders.",
+      "enabled": false
     },
     {
       "domain": "just-eat.it",
@@ -3293,6 +3777,22 @@
       "priority": 3
     },
     {
+      "domain": "kmart.com",
+      "name": "Kmart",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "home",
+        "toys_baby"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "kogan.com",
       "name": "Kogan",
       "roles": [
@@ -3324,6 +3824,22 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "kroger.com",
+      "name": "Kroger",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "general",
+        "health"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
     },
     {
       "domain": "leboncoin.fr",
@@ -3554,7 +4070,7 @@
       "domain": "manomano.fr",
       "name": "ManoMano France",
       "roles": [
-        "seller"
+        "marketplace"
       ],
       "verticals": [
         "home"
@@ -3568,7 +4084,7 @@
       "domain": "manomano.it",
       "name": "ManoMano Italia",
       "roles": [
-        "seller"
+        "marketplace"
       ],
       "verticals": [
         "home"
@@ -3701,6 +4217,22 @@
       "priority": 3
     },
     {
+      "domain": "meijer.com",
+      "name": "Meijer",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "general",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "memoryexpress.com",
       "name": "Memory Express",
       "roles": [
@@ -3712,6 +4244,20 @@
       ],
       "countries": [
         "CA"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "menards.com",
+      "name": "Menards",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -3847,6 +4393,21 @@
       "priority": 2
     },
     {
+      "domain": "microcenter.com",
+      "name": "Micro Center",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "microspot.ch",
       "name": "Microspot",
       "roles": [
@@ -3859,7 +4420,9 @@
       "countries": [
         "CH"
       ],
-      "priority": 2
+      "priority": 2,
+      "note": "Former shop merged into Interdiscount; microspot.ch redirects to interdiscount.ch. Use the existing Interdiscount entry instead.",
+      "enabled": false
     },
     {
       "domain": "migros.ch",
@@ -4047,7 +4610,9 @@
       "countries": [
         "AU"
       ],
-      "priority": 2
+      "priority": 2,
+      "note": "MyDeal ceased trading on 2025-09-30; its marketplace offer moved to BIG W. Remaining account and support pages are not current offers.",
+      "enabled": false
     },
     {
       "domain": "nanoreview.net",
@@ -4062,6 +4627,22 @@
       "countries": "global",
       "priority": 2,
       "note": "Phone, laptop, CPU and GPU spec comparisons"
+    },
+    {
+      "domain": "neimanmarcus.com",
+      "name": "Neiman Marcus",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "beauty",
+        "jewelry"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "newegg.ca",
@@ -4082,7 +4663,8 @@
       "domain": "newegg.com",
       "name": "Newegg",
       "roles": [
-        "seller"
+        "seller",
+        "marketplace"
       ],
       "verticals": [
         "computers",
@@ -4162,6 +4744,20 @@
     {
       "domain": "nordstrom.com",
       "name": "Nordstrom",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "nordstromrack.com",
+      "name": "Nordstrom Rack",
       "roles": [
         "seller"
       ],
@@ -4322,6 +4918,21 @@
       "priority": 2
     },
     {
+      "domain": "ollies.com",
+      "name": "Ollie's Bargain Outlet",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "omegawatches.com",
       "name": "Omega",
       "roles": [
@@ -4372,6 +4983,20 @@
       "priority": 1
     },
     {
+      "domain": "oreillyauto.com",
+      "name": "O'Reilly Auto Parts",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "orellfuessli.ch",
       "name": "Orell Füssli",
       "roles": [
@@ -4406,6 +5031,21 @@
         "DE"
       ],
       "priority": 3
+    },
+    {
+      "domain": "overstock.com",
+      "name": "Overstock",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "pandora.net",
@@ -4663,6 +5303,20 @@
       "priority": 2
     },
     {
+      "domain": "publix.com",
+      "name": "Publix",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "quattroruote.it",
       "name": "Quattroruote",
       "roles": [
@@ -4675,6 +5329,24 @@
         "IT"
       ],
       "priority": 1
+    },
+    {
+      "domain": "qvc.com",
+      "name": "QVC",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "general",
+        "home",
+        "fashion",
+        "beauty",
+        "jewelry"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "rabat.net",
@@ -4979,6 +5651,24 @@
       "note": "Online shop runs on simple.ripley.cl"
     },
     {
+      "domain": "riteaid.com",
+      "name": "Rite Aid",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "health",
+        "beauty",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2,
+      "note": "All Rite Aid retail stores closed in October 2025. Keep discovery disabled until a current retail offering is verified; records and relaunch notices are not offers.",
+      "enabled": false
+    },
+    {
       "domain": "rocca1794.com",
       "name": "Rocca 1794",
       "roles": [
@@ -5022,6 +5712,23 @@
       "priority": 2
     },
     {
+      "domain": "rossstores.com",
+      "name": "Ross Dress for Less",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2,
+      "note": "Ross does not sell merchandise online. Website imagery is representative and prices and availability vary by store; not an online offer source.",
+      "enabled": false
+    },
+    {
       "domain": "rtings.com",
       "name": "RTINGS",
       "roles": [
@@ -5034,6 +5741,36 @@
       "countries": "global",
       "priority": 2,
       "note": "Independent product tests; not a shop"
+    },
+    {
+      "domain": "safeway.com",
+      "name": "Safeway",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "saksfifthavenue.com",
+      "name": "Saks Fifth Avenue",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "beauty",
+        "jewelry"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "samsclub.com",
@@ -5283,6 +6020,21 @@
       "priority": 2
     },
     {
+      "domain": "sprouts.com",
+      "name": "Sprouts Farmers Market",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "health"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "staples.com",
       "name": "Staples",
       "roles": [
@@ -5513,6 +6265,21 @@
       "priority": 3
     },
     {
+      "domain": "thrivemarket.com",
+      "name": "Thrive Market",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "health"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "tiendanimal.com",
       "name": "Tiendanimal",
       "roles": [
@@ -5611,6 +6378,22 @@
       ],
       "countries": [
         "CL"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "tractorsupply.com",
+      "name": "Tractor Supply",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home",
+        "pets",
+        "general"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -5785,6 +6568,21 @@
         "GB",
         "US",
         "ES"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "urbanoutfitters.com",
+      "name": "Urban Outfitters",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -5985,6 +6783,20 @@
       "priority": 2
     },
     {
+      "domain": "wegmans.com",
+      "name": "Wegmans",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "wempe.com",
       "name": "Wempe",
       "roles": [
@@ -6004,6 +6816,20 @@
       "priority": 3
     },
     {
+      "domain": "wholefoodsmarket.com",
+      "name": "Whole Foods Market",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "willhaben.at",
       "name": "Willhaben",
       "roles": [
@@ -6021,6 +6847,20 @@
       ],
       "countries": [
         "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "williams-sonoma.com",
+      "name": "Williams-Sonoma",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -6160,6 +7000,21 @@
       "priority": 3
     },
     {
+      "domain": "zappos.com",
+      "name": "Zappos",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "zara.com",
       "name": "Zara",
       "roles": [
@@ -6266,6 +7121,22 @@
       ],
       "countries": [
         "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "zulily.com",
+      "name": "Zulily",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home",
+        "toys_baby"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },

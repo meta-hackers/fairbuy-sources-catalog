@@ -13,6 +13,7 @@ The catalog is a static JSON file. FairBuy fetches it only when an admin clicks 
 | File | Purpose |
 |---|---|
 | `sources.json` | Canonical catalog data. Edit this. |
+| `SOURCE_REVIEW.md` | Dated source-quality findings, evidence, and review checklist. |
 | `index.html` | Public read-only table with filters. |
 | `scripts/validate.mjs` | Dependency-free schema validation used by CI. |
 | `schema/source-catalog.schema.json` | JSON Schema for editors and AI tools. |
@@ -27,6 +28,12 @@ The catalog is a static JSON file. FairBuy fetches it only when an admin clicks 
 5. In FairBuy, an admin opens **Backoffice → Sources → Sync from GitHub**.
 
 Do not edit `index.html` when adding a source; it reads `sources.json` at runtime.
+
+Before adding or re-enabling a discovery hint, verify a current product listing,
+purchase path, country-specific hostname and shipping eligibility. Schema validity
+does not establish source quality. See [the source review](SOURCE_REVIEW.md) for
+evidence, known gaps and the review checklist. Disable closed or unsuitable hints
+with an explanatory `note` instead of deleting their history.
 
 ## JSON shape
 
