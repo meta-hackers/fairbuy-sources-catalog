@@ -50,7 +50,7 @@ Do not edit `index.html` when adding a source; it reads `sources.json` at runtim
 - `domain`: lowercase hostname, no scheme or path. Subdomains are matched on dot boundaries.
 - `name`: display name.
 - `roles`: one or more of `seller`, `marketplace`, `spec`, `review`, `comparison`.
-- `verticals`: one or more of `computers`, `electronics`, `food_delivery`, `fashion`, `home`, `sports`, `books`, `auto`, `general`.
+- `verticals`: one or more of `computers`, `electronics`, `food_delivery`, `fashion`, `watches`, `home`, `sports`, `books`, `auto`, `general`.
 - `countries`: `"global"` or an array of uppercase ISO two-letter codes.
 - `priority`: `1` occasional, `2` secondary, `3` primary.
 - `note`: optional internal note, max 300 characters.

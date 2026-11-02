@@ -35,7 +35,7 @@
           "type": "array",
           "minItems": 1,
           "uniqueItems": true,
-          "items": { "enum": ["computers", "electronics", "food_delivery", "fashion", "home", "sports", "books", "auto", "general"] }
+          "items": { "enum": ["computers", "electronics", "food_delivery", "fashion", "watches", "home", "sports", "books", "auto", "general"] }
         },
         "countries": {
           "oneOf": [

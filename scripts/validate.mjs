@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 
 const ROLES = new Set(['seller', 'marketplace', 'spec', 'review', 'comparison']);
-const VERTICALS = new Set(['computers', 'electronics', 'food_delivery', 'fashion', 'home', 'sports', 'books', 'auto', 'general']);
+const VERTICALS = new Set(['computers', 'electronics', 'food_delivery', 'fashion', 'watches', 'home', 'sports', 'books', 'auto', 'general']);
 const DOMAIN = /^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/;
 const COUNTRY = /^[A-Z]{2}$/;
 const ENTRY_KEYS = new Set(['domain', 'name', 'roles', 'verticals', 'countries', 'priority', 'note', 'enabled']);
