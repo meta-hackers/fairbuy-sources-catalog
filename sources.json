@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T11:55:38.424Z",
+  "updatedAt": "2026-11-02T16:05:02.691Z",
   "entries": [
     {
       "domain": "abc.cl",
@@ -105,6 +105,18 @@
       "countries": "global",
       "priority": 2,
       "note": "Official brand site; watches are sold via authorized boutiques and dealers only"
+    },
+    {
+      "domain": "alibaba.com",
+      "name": "Alibaba",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "general"
+      ],
+      "countries": "global",
+      "priority": 1
     },
     {
       "domain": "aliexpress.com",
@@ -741,6 +753,22 @@
       ],
       "priority": 2,
       "note": "Refurbished-device marketplace"
+    },
+    {
+      "domain": "banggood.com",
+      "name": "Banggood",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": "global",
+      "priority": 2
     },
     {
       "domain": "barnesandnoble.com",
@@ -1590,6 +1618,23 @@
         "IT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "dhgate.com",
+      "name": "DHgate",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": "global",
+      "priority": 2
     },
     {
       "domain": "dickssportinggoods.com",
@@ -2663,6 +2708,19 @@
       "priority": 2
     },
     {
+      "domain": "iherb.com",
+      "name": "iHerb",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "health",
+        "beauty"
+      ],
+      "countries": "global",
+      "priority": 2
+    },
+    {
       "domain": "ikea.com",
       "name": "IKEA",
       "roles": [
@@ -2759,6 +2817,21 @@
         "GB"
       ],
       "priority": 3
+    },
+    {
+      "domain": "joom.com",
+      "name": "Joom",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "fashion",
+        "home",
+        "electronics",
+        "general"
+      ],
+      "countries": "global",
+      "priority": 2
     },
     {
       "domain": "jumbo.cl",
@@ -4185,6 +4258,24 @@
       "priority": 2
     },
     {
+      "domain": "rakuten.co.jp",
+      "name": "Rakuten Global Market",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "electronics",
+        "fashion",
+        "books",
+        "home",
+        "toys_baby"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "rappi.com",
       "name": "Rappi",
       "roles": [
@@ -5122,6 +5213,23 @@
       "priority": 3
     },
     {
+      "domain": "ubuy.com",
+      "name": "Ubuy",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home",
+        "fashion",
+        "beauty",
+        "toys_baby",
+        "sports"
+      ],
+      "countries": "global",
+      "priority": 2
+    },
+    {
       "domain": "uhrzeit.org",
       "name": "uhrzeit.org",
       "roles": [
@@ -5205,6 +5313,20 @@
       "countries": [
         "GB"
       ],
+      "priority": 2
+    },
+    {
+      "domain": "vestiairecollective.com",
+      "name": "Vestiaire Collective",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "fashion",
+        "watches",
+        "jewelry"
+      ],
+      "countries": "global",
       "priority": 2
     },
     {
