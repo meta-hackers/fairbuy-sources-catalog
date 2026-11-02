@@ -194,6 +194,51 @@
       "priority": 2
     },
     {
+      "domain": "amazon.ca",
+      "name": "Amazon.ca",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general",
+        "groceries",
+        "toys_baby"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.co.jp",
+      "name": "Amazon.co.jp",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general",
+        "toys_baby"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "amazon.co.uk",
       "name": "Amazon.co.uk",
       "roles": [
@@ -236,6 +281,71 @@
       ],
       "countries": [
         "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.com.au",
+      "name": "Amazon.com.au",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general",
+        "groceries",
+        "toys_baby"
+      ],
+      "countries": [
+        "AU"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.com.br",
+      "name": "Amazon Brasil",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "general",
+        "toys_baby"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "amazon.com.mx",
+      "name": "Amazon.com.mx",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "general",
+        "toys_baby"
+      ],
+      "countries": [
+        "MX"
       ],
       "priority": 3
     },
@@ -331,6 +441,24 @@
         "IT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "americanas.com.br",
+      "name": "Americanas",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "electronics",
+        "home",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "priority": 2
     },
     {
       "domain": "antartica.cl",
@@ -433,6 +561,32 @@
       "countries": "global",
       "priority": 2,
       "note": "Official brand site; watches are sold via authorized boutiques and dealers only"
+    },
+    {
+      "domain": "auto-data.net",
+      "name": "Auto-Data.net",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Car technical specifications database"
+    },
+    {
+      "domain": "automobile-catalog.com",
+      "name": "Automobile Catalogue",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": "global",
+      "priority": 3,
+      "note": "Cars produced worldwide since 1945; technical data"
     },
     {
       "domain": "automobile.it",
@@ -845,6 +999,24 @@
       "priority": 1
     },
     {
+      "domain": "bestbuy.ca",
+      "name": "Best Buy Canada",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "sports",
+        "toys_baby"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "bestbuy.com",
       "name": "Best Buy",
       "roles": [
@@ -1045,6 +1217,38 @@
       "priority": 2
     },
     {
+      "domain": "canadacomputers.com",
+      "name": "Canada Computers",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "canadiantire.ca",
+      "name": "Canadian Tire",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "auto",
+        "home",
+        "sports",
+        "general"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "canyon.com",
       "name": "Canyon",
       "roles": [
@@ -1111,6 +1315,22 @@
         "GB"
       ],
       "priority": 1
+    },
+    {
+      "domain": "casasbahia.com.br",
+      "name": "Casas Bahia",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home",
+        "fashion"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "priority": 2
     },
     {
       "domain": "caseking.de",
@@ -2493,6 +2713,22 @@
       "priority": 2
     },
     {
+      "domain": "harveynorman.com.au",
+      "name": "Harvey Norman",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "AU"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "hm.com",
       "name": "H&M",
       "roles": [
@@ -2798,6 +3034,23 @@
       "priority": 3
     },
     {
+      "domain": "jbhifi.com.au",
+      "name": "JB Hi-Fi",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "music",
+        "home"
+      ],
+      "countries": [
+        "AU"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "johnlewis.com",
       "name": "John Lewis",
       "roles": [
@@ -2891,6 +3144,43 @@
       "priority": 3
     },
     {
+      "domain": "kabum.com.br",
+      "name": "KaBuM!",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "kakaku.com",
+      "name": "kakaku.com",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "priority": 2,
+      "note": "Japanese price comparison"
+    },
+    {
       "domain": "kaufland.de",
       "name": "Kaufland",
       "roles": [
@@ -2925,6 +3215,19 @@
         "US"
       ],
       "priority": 1
+    },
+    {
+      "domain": "kimovil.com",
+      "name": "Kimovil",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Smartphone and tablet spec database with price comparison"
     },
     {
       "domain": "king-jouet.ch",
@@ -2988,6 +3291,24 @@
         "DE"
       ],
       "priority": 3
+    },
+    {
+      "domain": "kogan.com",
+      "name": "Kogan",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "sports",
+        "general"
+      ],
+      "countries": [
+        "AU"
+      ],
+      "priority": 2
     },
     {
       "domain": "kohls.com",
@@ -3135,6 +3456,24 @@
       "priority": 3
     },
     {
+      "domain": "liverpool.com.mx",
+      "name": "Liverpool",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home",
+        "fashion",
+        "beauty",
+        "general"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "longines.com",
       "name": "Longines",
       "roles": [
@@ -3178,6 +3517,24 @@
         "US"
       ],
       "priority": 3
+    },
+    {
+      "domain": "magazineluiza.com.br",
+      "name": "Magazine Luiza",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "general"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "priority": 3,
+      "note": "Also sells on Amazon Brasil and Mercado Livre"
     },
     {
       "domain": "maier.fr",
@@ -3342,6 +3699,21 @@
         "IT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "memoryexpress.com",
+      "name": "Memory Express",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "priority": 2
     },
     {
       "domain": "mercadolibre.cl",
@@ -3657,6 +4029,52 @@
       ],
       "countries": [
         "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "mydeal.com.au",
+      "name": "MyDeal",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "electronics",
+        "home",
+        "fashion",
+        "general"
+      ],
+      "countries": [
+        "AU"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "nanoreview.net",
+      "name": "NanoReview",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Phone, laptop, CPU and GPU spec comparisons"
+    },
+    {
+      "domain": "newegg.ca",
+      "name": "Newegg Canada",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CA"
       ],
       "priority": 2
     },
@@ -4114,6 +4532,25 @@
       "priority": 1
     },
     {
+      "domain": "pcpartpicker.com",
+      "name": "PCPartPicker",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "computers"
+      ],
+      "countries": [
+        "US",
+        "CA",
+        "GB",
+        "DE",
+        "AU"
+      ],
+      "priority": 2,
+      "note": "PC component specs and compatibility; prices are retailer links, not offers"
+    },
+    {
       "domain": "pedidosya.com",
       "name": "PedidosYa",
       "roles": [
@@ -4168,6 +4605,19 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "phonearena.com",
+      "name": "PhoneArena",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "electronics"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Phone spec database and comparison tool"
     },
     {
       "domain": "picnic.app",
@@ -4327,6 +4777,37 @@
       ],
       "priority": 2,
       "note": "Second-hand electronics, media and games"
+    },
+    {
+      "domain": "reddit.com",
+      "name": "Reddit",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general",
+        "watches",
+        "beauty",
+        "health",
+        "pets",
+        "toys_baby",
+        "music",
+        "office",
+        "eyewear",
+        "jewelry",
+        "groceries",
+        "food_delivery"
+      ],
+      "countries": "global",
+      "priority": 1,
+      "note": "User discussions and advice from product subreddits; anecdotal, use as secondary context only"
     },
     {
       "domain": "refurbed.at",
@@ -5260,6 +5741,19 @@
       "priority": 2
     },
     {
+      "domain": "ultimatespecs.com",
+      "name": "UltimateSpecs",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": "global",
+      "priority": 3,
+      "note": "Car and motorcycle technical specifications"
+    },
+    {
       "domain": "unieuro.it",
       "name": "Unieuro",
       "roles": [
@@ -5556,6 +6050,23 @@
       ],
       "countries": [
         "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "yodobashi.com",
+      "name": "Yodobashi.com",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "toys_baby"
+      ],
+      "countries": [
+        "JP"
       ],
       "priority": 2
     },
