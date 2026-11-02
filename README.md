@@ -50,7 +50,7 @@ Do not edit `index.html` when adding a source; it reads `sources.json` at runtim
 - `domain`: lowercase hostname, no scheme or path. Subdomains are matched on dot boundaries.
 - `name`: display name.
 - `roles`: one or more of `seller`, `marketplace`, `spec`, `review`, `comparison`.
-- `verticals`: one or more lowercase keys. Known values include `computers`, `electronics`, `food_delivery`, `fashion`, `watches`, `home`, `sports`, `books`, `auto`, `general`. New keys are allowed and do not fail validation; FairBuy only uses a key its classifier can produce.
+- `verticals`: one or more lowercase keys. Known values include `computers`, `electronics`, `food_delivery`, `groceries`, `fashion`, `watches`, `jewelry`, `eyewear`, `beauty`, `health`, `pets`, `toys_baby`, `home`, `sports`, `music`, `office`, `books`, `auto`, `general`. New keys are allowed and do not fail validation; FairBuy only uses a key its classifier can produce.
 - `countries`: `"global"` or an array of uppercase ISO two-letter codes.
 - `priority`: `1` occasional, `2` secondary, `3` primary.
 - `note`: optional internal note, max 300 characters.
@@ -92,3 +92,6 @@ The FairBuy backend validates the same shape again on every sync. The catalog is
 - GitHub Pages can serve a cached copy for a short time after a deploy. If a manual sync shows the previous version, wait for the Pages deployment and retry.
 - The catalog is public. Do not put credentials, personal data or unpublished seller terms in it.
 - For `food_delivery`, menus and fees are per restaurant and delivery address; these entries are hints only and do not solve basket-level comparison.
+- The same basket-level caveat applies to `groceries`: fresh-item prices and promotions vary by region and day.
+- For `eyewear`, advertised frame prices usually exclude lenses; only configured prices are comparable.
+- Refurbished marketplaces (Back Market, refurbed, Rebuy, Revendo) are tagged `computers`/`electronics`; condition, warranty and battery health differ per listing.
