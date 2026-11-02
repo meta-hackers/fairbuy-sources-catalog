@@ -1,9 +1,9 @@
 import { readFileSync } from 'node:fs';
 
 const ROLES = new Set(['seller', 'marketplace', 'spec', 'review', 'comparison']);
-const VERTICALS = new Set(['computers', 'electronics', 'food_delivery', 'fashion', 'watches', 'home', 'sports', 'books', 'auto', 'general']);
 const DOMAIN = /^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/;
 const COUNTRY = /^[A-Z]{2}$/;
+const VERTICAL_KEY = /^[a-z][a-z0-9_]*$/;
 const ENTRY_KEYS = new Set(['domain', 'name', 'roles', 'verticals', 'countries', 'priority', 'note', 'enabled']);
 const PAYLOAD_KEYS = new Set(['schemaVersion', 'updatedAt', 'entries']);
 const errors = [];
@@ -44,8 +44,10 @@ entries.forEach((entry, index) => {
   if (!Array.isArray(entry.roles) || !entry.roles.length || entry.roles.some(role => !ROLES.has(role)) || !isUnique(entry.roles)) {
     fail(`${path}.roles`, `must be a non-empty unique subset of ${[...ROLES].join(', ')}`);
   }
-  if (!Array.isArray(entry.verticals) || !entry.verticals.length || entry.verticals.some(vertical => !VERTICALS.has(vertical)) || !isUnique(entry.verticals)) {
-    fail(`${path}.verticals`, `must be a non-empty unique subset of ${[...VERTICALS].join(', ')}`);
+  if (!Array.isArray(entry.verticals) || !entry.verticals.length || entry.verticals.length > 30
+    || entry.verticals.some(vertical => !isString(vertical) || !VERTICAL_KEY.test(vertical) || vertical.length > 60)
+    || !isUnique(entry.verticals)) {
+    fail(`${path}.verticals`, 'must be a non-empty unique array of lowercase keys such as watches or home');
   }
   if (entry.countries !== 'global') {
     if (!Array.isArray(entry.countries) || !entry.countries.length || entry.countries.length > 60
@@ -69,4 +71,5 @@ const countries = [...new Set(entries.flatMap(entry => entry.countries === 'glob
 console.log(`sources.json is valid: ${entries.length} entries`);
 console.log(`  roles:     seller ${count(e => e.roles.includes('seller'))}, marketplace ${count(e => e.roles.includes('marketplace'))}, spec ${count(e => e.roles.includes('spec'))}, review ${count(e => e.roles.includes('review'))}, comparison ${count(e => e.roles.includes('comparison'))}`);
 console.log(`  countries: ${countries.join(', ')} (plus global)`);
-for (const vertical of VERTICALS) console.log(`  ${vertical.padEnd(14)} ${count(e => e.verticals.includes(vertical))}`);
+const allVerticals = [...new Set(entries.flatMap(entry => entry.verticals))].sort();
+for (const vertical of allVerticals) console.log(`  ${vertical.padEnd(14)} ${count(e => e.verticals.includes(vertical))}`);

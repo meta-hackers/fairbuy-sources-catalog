@@ -63,7 +63,6 @@
   <script>
     const $ = id => document.getElementById(id);
     const roles = ['seller', 'marketplace', 'spec', 'review', 'comparison'];
-    const verticals = ['computers', 'electronics', 'food_delivery', 'fashion', 'watches', 'home', 'sports', 'books', 'auto', 'general'];
     const label = value => value.replaceAll('_', ' ');
     const node = (tag, text, className) => {
       const element = document.createElement(tag);
@@ -84,6 +83,7 @@
       .then(payload => {
         data = payload.entries || [];
         const countries = [...new Set(data.flatMap(entry => entry.countries === 'global' ? [] : entry.countries))].sort();
+        const catalogVerticals = [...new Set(data.flatMap(entry => entry.verticals))].sort();
         const metrics = $('metrics');
         metrics.replaceChildren(
           metric('Entries', data.length),
@@ -91,7 +91,7 @@
           metric('Updated', payload.updatedAt ? new Date(payload.updatedAt).toLocaleString() : 'Unknown'),
           metric('Countries', countries.length + (data.some(entry => entry.countries === 'global') ? ' + global' : '')),
         );
-        fill($('vertical'), verticals, 'All verticals');
+        fill($('vertical'), catalogVerticals, 'All verticals');
         fill($('role'), roles, 'All roles');
         fill($('country'), ['global', ...countries], 'All countries', value => value === 'global' ? 'Global only' : value);
         render();

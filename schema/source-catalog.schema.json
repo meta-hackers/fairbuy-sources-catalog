@@ -34,8 +34,14 @@
         "verticals": {
           "type": "array",
           "minItems": 1,
+          "maxItems": 30,
           "uniqueItems": true,
-          "items": { "enum": ["computers", "electronics", "food_delivery", "fashion", "watches", "home", "sports", "books", "auto", "general"] }
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 60,
+            "pattern": "^[a-z][a-z0-9_]*$"
+          }
         },
         "countries": {
           "oneOf": [

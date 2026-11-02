@@ -50,7 +50,7 @@ Do not edit `index.html` when adding a source; it reads `sources.json` at runtim
 - `domain`: lowercase hostname, no scheme or path. Subdomains are matched on dot boundaries.
 - `name`: display name.
 - `roles`: one or more of `seller`, `marketplace`, `spec`, `review`, `comparison`.
-- `verticals`: one or more of `computers`, `electronics`, `food_delivery`, `fashion`, `watches`, `home`, `sports`, `books`, `auto`, `general`.
+- `verticals`: one or more lowercase keys. Known values include `computers`, `electronics`, `food_delivery`, `fashion`, `watches`, `home`, `sports`, `books`, `auto`, `general`. New keys are allowed and do not fail validation; FairBuy only uses a key its classifier can produce.
 - `countries`: `"global"` or an array of uppercase ISO two-letter codes.
 - `priority`: `1` occasional, `2` secondary, `3` primary.
 - `note`: optional internal note, max 300 characters.
@@ -74,7 +74,7 @@ Do not edit `index.html` when adding a source; it reads `sources.json` at runtim
 node scripts/validate.mjs
 ```
 
-The validator checks the envelope, required fields, allowed roles/verticals, country format, priority range, duplicate domains and unknown keys. Invalid data fails CI before Pages publishes it.
+The validator checks the envelope, required fields, allowed roles, country format, priority range, duplicate domains and unknown keys. Vertical keys are open-ended: the validator checks the lowercase format, not membership in a fixed list. Adding a new vertical will not break the app's catalog sync; FairBuy only uses a vertical its classifier can produce.
 
 The FairBuy backend validates the same shape again on every sync. The catalog is public but the app does not execute its content.
 
