@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T11:45:53.980Z",
+  "updatedAt": "2026-11-02T11:55:38.424Z",
   "entries": [
     {
       "domain": "abc.cl",
@@ -3291,6 +3291,94 @@
       ],
       "priority": 3,
       "note": "Chile's largest marketplace"
+    },
+    {
+      "domain": "mercadolibre.com.ar",
+      "name": "Mercado Libre Argentina",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "AR"
+      ],
+      "priority": 3,
+      "note": "Argentina's largest marketplace"
+    },
+    {
+      "domain": "mercadolibre.com.co",
+      "name": "Mercado Libre Colombia",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "priority": 3,
+      "note": "Colombia's largest marketplace"
+    },
+    {
+      "domain": "mercadolibre.com.mx",
+      "name": "Mercado Libre México",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "priority": 3,
+      "note": "Mexico's largest marketplace"
+    },
+    {
+      "domain": "mercadolivre.com.br",
+      "name": "Mercado Livre Brasil",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "priority": 3,
+      "note": "Brazil's largest marketplace; Mercado Libre's Brazilian site"
     },
     {
       "domain": "mercari.com",
