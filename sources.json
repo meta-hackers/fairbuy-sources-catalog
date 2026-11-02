@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T11:41:59.846Z",
+  "updatedAt": "2026-11-02T11:45:53.980Z",
   "entries": [
+    {
+      "domain": "abc.cl",
+      "name": "ABC",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "general"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 1,
+      "note": "Department store; lapolar.cl redirects here"
+    },
     {
       "domain": "ablogtowatch.com",
       "name": "aBlogtoWatch",
@@ -14,6 +33,51 @@
       "countries": "global",
       "priority": 2,
       "note": "Watch reviews and editorial; not a shop"
+    },
+    {
+      "domain": "abt.com",
+      "name": "Abt",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 1
+    },
+    {
+      "domain": "adidas.cl",
+      "name": "Adidas Chile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "adorama.com",
+      "name": "Adorama",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "ah.nl",
@@ -41,6 +105,26 @@
       "countries": "global",
       "priority": 2,
       "note": "Official brand site; watches are sold via authorized boutiques and dealers only"
+    },
+    {
+      "domain": "aliexpress.com",
+      "name": "AliExpress",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Global marketplace shipping from China; delivery times and import handling vary by country"
     },
     {
       "domain": "allegro.pl",
@@ -237,6 +321,20 @@
       "priority": 3
     },
     {
+      "domain": "antartica.cl",
+      "name": "Librería Antártica",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "ao.com",
       "name": "AO",
       "roles": [
@@ -250,6 +348,26 @@
         "GB"
       ],
       "priority": 2
+    },
+    {
+      "domain": "apple.com",
+      "name": "Apple",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "US",
+        "GB",
+        "DE",
+        "FR",
+        "IT",
+        "ES"
+      ],
+      "priority": 3
     },
     {
       "domain": "argos.co.uk",
@@ -399,6 +517,20 @@
       ],
       "countries": [
         "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "backcountry.com",
+      "name": "Backcountry",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -625,6 +757,20 @@
       "priority": 3
     },
     {
+      "domain": "basspro.com",
+      "name": "Bass Pro Shops",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "bauhaus.info",
       "name": "Bauhaus",
       "roles": [
@@ -637,6 +783,20 @@
         "CH",
         "DE",
         "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "bedbathandbeyond.com",
+      "name": "Bed Bath & Beyond",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -841,6 +1001,22 @@
       "priority": 2
     },
     {
+      "domain": "buscalibre.cl",
+      "name": "Buscalibre",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "canyon.com",
       "name": "Canyon",
       "roles": [
@@ -1008,6 +1184,20 @@
       "priority": 3
     },
     {
+      "domain": "chileautos.cl",
+      "name": "ChileAutos",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "christ.at",
       "name": "CHRIST Österreich",
       "roles": [
@@ -1141,6 +1331,61 @@
       ],
       "countries": [
         "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "costco.com",
+      "name": "Costco",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "groceries",
+        "home",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3,
+      "note": "Membership warehouse; prices assume a Costco membership"
+    },
+    {
+      "domain": "craigslist.org",
+      "name": "Craigslist",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "cruzverde.cl",
+      "name": "Cruz Verde",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty",
+        "health"
+      ],
+      "countries": [
+        "CL"
       ],
       "priority": 3
     },
@@ -1347,6 +1592,20 @@
       "priority": 3
     },
     {
+      "domain": "dickssportinggoods.com",
+      "name": "Dick's Sporting Goods",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "digitec.ch",
       "name": "Digitec",
       "roles": [
@@ -1486,6 +1745,20 @@
       ],
       "countries": "global",
       "priority": 1
+    },
+    {
+      "domain": "easy.cl",
+      "name": "Easy Chile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
     },
     {
       "domain": "ebay.ch",
@@ -1741,6 +2014,29 @@
       "priority": 2
     },
     {
+      "domain": "falabella.com",
+      "name": "Falabella",
+      "roles": [
+        "marketplace",
+        "seller"
+      ],
+      "verticals": [
+        "beauty",
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 3,
+      "note": "Chile's largest department store and marketplace"
+    },
+    {
       "domain": "farfetch.com",
       "name": "Farfetch",
       "roles": [
@@ -1751,6 +2047,21 @@
       ],
       "countries": "global",
       "priority": 1
+    },
+    {
+      "domain": "farmaciasahumada.cl",
+      "name": "Farmacias Ahumada",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty",
+        "health"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
     },
     {
       "domain": "fcw.ch",
@@ -1822,6 +2133,21 @@
       ],
       "countries": [
         "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "footlocker.com",
+      "name": "Foot Locker",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -1929,6 +2255,20 @@
         "CH"
       ],
       "priority": 3
+    },
+    {
+      "domain": "gamestop.com",
+      "name": "GameStop",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "electronics"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "geizhals.at",
@@ -2147,6 +2487,20 @@
       "priority": 2
     },
     {
+      "domain": "homedepot.com",
+      "name": "The Home Depot",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "hornbach.ch",
       "name": "Hornbach Schweiz",
       "roles": [
@@ -2330,6 +2684,21 @@
       "priority": 3
     },
     {
+      "domain": "instacart.com",
+      "name": "Instacart",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "groceries"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 3,
+      "note": "Same-day delivery via partner grocers; prices can differ from store shelves"
+    },
+    {
       "domain": "interdiscount.ch",
       "name": "Interdiscount",
       "roles": [
@@ -2388,6 +2757,21 @@
       ],
       "countries": [
         "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "jumbo.cl",
+      "name": "Jumbo Chile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "general"
+      ],
+      "countries": [
+        "CL"
       ],
       "priority": 3
     },
@@ -2533,6 +2917,21 @@
       "priority": 3
     },
     {
+      "domain": "kohls.com",
+      "name": "Kohl's",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "leboncoin.fr",
       "name": "Leboncoin",
       "roles": [
@@ -2617,6 +3016,22 @@
       "priority": 2
     },
     {
+      "domain": "lider.cl",
+      "name": "Líder",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "general"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 3,
+      "note": "Walmart Chile"
+    },
+    {
       "domain": "lidl.ch",
       "name": "Lidl Schweiz",
       "roles": [
@@ -2659,6 +3074,35 @@
         "CH",
         "DE",
         "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "lowes.com",
+      "name": "Lowe's",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "macys.com",
+      "name": "Macy's",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "home"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 3
     },
@@ -2825,6 +3269,49 @@
         "IT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "mercadolibre.cl",
+      "name": "Mercado Libre Chile",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 3,
+      "note": "Chile's largest marketplace"
+    },
+    {
+      "domain": "mercari.com",
+      "name": "Mercari",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "microspot.ch",
@@ -3028,6 +3515,41 @@
       "priority": 2
     },
     {
+      "domain": "nike.cl",
+      "name": "Nike Chile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "nike.com",
+      "name": "Nike",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "US",
+        "GB",
+        "DE",
+        "FR",
+        "IT",
+        "ES"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "nomos-glashuette.com",
       "name": "Nomos Glashütte",
       "roles": [
@@ -3054,6 +3576,20 @@
         "PL",
         "PT",
         "SE",
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "nordstrom.com",
+      "name": "Nordstrom",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
         "US"
       ],
       "priority": 2
@@ -3154,6 +3690,27 @@
       ],
       "countries": [
         "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "offerup.com",
+      "name": "OfferUp",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home",
+        "fashion",
+        "sports",
+        "books",
+        "auto",
+        "general"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -3307,6 +3864,26 @@
       "priority": 2
     },
     {
+      "domain": "paris.cl",
+      "name": "Paris",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "parkers.co.uk",
       "name": "Parkers",
       "roles": [
@@ -3348,6 +3925,21 @@
       "priority": 2
     },
     {
+      "domain": "pcfactory.cl",
+      "name": "PC Factory",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "pcmag.com",
       "name": "PCMag",
       "roles": [
@@ -3359,6 +3951,62 @@
       ],
       "countries": "global",
       "priority": 1
+    },
+    {
+      "domain": "pedidosya.com",
+      "name": "PedidosYa",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "petco.cl",
+      "name": "Petco Chile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "pets"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "petco.com",
+      "name": "Petco",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "pets"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "petsmart.com",
+      "name": "PetSmart",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "pets"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "picnic.app",
@@ -3386,6 +4034,20 @@
       ],
       "countries": [
         "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "poshmark.com",
+      "name": "Poshmark",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "US"
       ],
       "priority": 2
     },
@@ -3431,6 +4093,21 @@
         "FR",
         "GB",
         "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "rappi.com",
+      "name": "Rappi",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery",
+        "groceries"
+      ],
+      "countries": [
+        "CL"
       ],
       "priority": 2
     },
@@ -3622,6 +4299,26 @@
       "note": "Swiss marketplace for new and used goods"
     },
     {
+      "domain": "ripley.cl",
+      "name": "Ripley Chile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "general"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2,
+      "note": "Online shop runs on simple.ripley.cl"
+    },
+    {
       "domain": "rocca1794.com",
       "name": "Rocca 1794",
       "roles": [
@@ -3677,6 +4374,22 @@
       "countries": "global",
       "priority": 2,
       "note": "Independent product tests; not a shop"
+    },
+    {
+      "domain": "samsclub.com",
+      "name": "Sam's Club",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries",
+        "general"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2,
+      "note": "Membership club; prices require a Sam's Club membership"
     },
     {
       "domain": "saturn.de",
@@ -3808,6 +4521,18 @@
       "priority": 2
     },
     {
+      "domain": "shein.com",
+      "name": "SHEIN",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": "global",
+      "priority": 2
+    },
+    {
       "domain": "shop-apotheke.ch",
       "name": "Shop Apotheke Schweiz",
       "roles": [
@@ -3851,6 +4576,79 @@
         "IE"
       ],
       "priority": 2
+    },
+    {
+      "domain": "sodimac.cl",
+      "name": "Sodimac Chile",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "solotodo.cl",
+      "name": "SoloTodo",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 3,
+      "note": "Chilean price comparison; not a shop"
+    },
+    {
+      "domain": "spdigital.cl",
+      "name": "SP Digital",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "staples.com",
+      "name": "Staples",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "office"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "stockx.com",
+      "name": "StockX",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "fashion",
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Resale marketplace; prices move dynamically"
     },
     {
       "domain": "subito.it",
@@ -3954,6 +4752,27 @@
       "countries": "global",
       "priority": 1,
       "note": "GPU/CPU database; not a shop"
+    },
+    {
+      "domain": "temu.com",
+      "name": "Temu",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "fashion",
+        "home",
+        "toys_baby",
+        "general"
+      ],
+      "countries": [
+        "CL",
+        "US"
+      ],
+      "priority": 2,
+      "note": "Ships from China; delivery takes longer and import rules may apply"
     },
     {
       "domain": "tesco.com",
@@ -4122,6 +4941,20 @@
       "priority": 2
     },
     {
+      "domain": "tottus.cl",
+      "name": "Tottus",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "groceries"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "trony.it",
       "name": "Trony",
       "roles": [
@@ -4195,7 +5028,8 @@
         "FR",
         "GB",
         "US",
-        "ES"
+        "ES",
+        "CL"
       ],
       "priority": 3
     },
