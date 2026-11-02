@@ -1,7 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T10:48:47.391Z",
+  "updatedAt": "2026-11-02T11:33:31.256Z",
   "entries": [
+    {
+      "domain": "ablogtowatch.com",
+      "name": "aBlogtoWatch",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Watch reviews and editorial; not a shop"
+    },
+    {
+      "domain": "alange-soehne.com",
+      "name": "A. Lange & Söhne",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Official brand site; watches are sold via authorized boutiques and dealers only"
+    },
     {
       "domain": "alltricks.com",
       "name": "Alltricks",
@@ -218,6 +244,19 @@
       "priority": 2
     },
     {
+      "domain": "audemarspiguet.com",
+      "name": "Audemars Piguet",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Official brand site; watches are sold via authorized boutiques and dealers only"
+    },
+    {
       "domain": "automobile.it",
       "name": "Automobile.it",
       "roles": [
@@ -364,6 +403,20 @@
       "priority": 3
     },
     {
+      "domain": "beyer.ch",
+      "name": "Beyer Chronometrie",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "bhphotovideo.com",
       "name": "B&H Photo Video",
       "roles": [
@@ -428,6 +481,58 @@
       "priority": 2
     },
     {
+      "domain": "bremont.com",
+      "name": "Bremont",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "AT",
+        "BE",
+        "CH",
+        "DE",
+        "DK",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "IE",
+        "IT",
+        "LU",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "SE",
+        "US"
+      ],
+      "priority": 2,
+      "note": "UK shop ships across Europe; US and Australia run on us.bremont.com and au.bremont.com"
+    },
+    {
+      "domain": "bucherer.com",
+      "name": "Bucherer",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH",
+        "DE",
+        "AT",
+        "FR",
+        "GB",
+        "DK",
+        "US"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "canyon.com",
       "name": "Canyon",
       "roles": [
@@ -438,6 +543,32 @@
       ],
       "countries": "global",
       "priority": 2
+    },
+    {
+      "domain": "cartier.com",
+      "name": "Cartier",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "AT",
+        "BE",
+        "CH",
+        "DE",
+        "DK",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "IE",
+        "IT",
+        "PT",
+        "US"
+      ],
+      "priority": 3
     },
     {
       "domain": "carwow.co.uk",
@@ -468,6 +599,22 @@
       "priority": 1
     },
     {
+      "domain": "casio.com",
+      "name": "Casio",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "priority": 2,
+      "note": "Official UK and US shops; other regions are served by regional Casio sites such as casio-europe.com"
+    },
+    {
       "domain": "castorama.fr",
       "name": "Castorama",
       "roles": [
@@ -495,7 +642,8 @@
         "sports",
         "books",
         "auto",
-        "general"
+        "general",
+        "watches"
       ],
       "countries": "global",
       "priority": 1
@@ -520,6 +668,96 @@
         "FR"
       ],
       "priority": 2
+    },
+    {
+      "domain": "christ.at",
+      "name": "CHRIST Österreich",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "AT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "christ.de",
+      "name": "CHRIST",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "chrono24.com",
+      "name": "Chrono24",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 3
+    },
+    {
+      "domain": "citizenwatch.co.uk",
+      "name": "Citizen UK",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "citizenwatch.com",
+      "name": "Citizen US",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CA",
+        "US"
+      ],
+      "priority": 2,
+      "note": "US and Canada official stores; orders ship within the country of purchase only"
+    },
+    {
+      "domain": "citizenwatch.eu",
+      "name": "Citizen Europe",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "AT",
+        "CH",
+        "DE",
+        "FI",
+        "FR",
+        "NL"
+      ],
+      "priority": 2,
+      "note": "Country shops run on at., ch., de., fi., fr. and nl. subdomains of citizenwatch.eu"
     },
     {
       "domain": "currys.co.uk",
@@ -877,6 +1115,20 @@
       "priority": 3
     },
     {
+      "domain": "embassy.ch",
+      "name": "Embassy",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "eprice.it",
       "name": "ePrice",
       "roles": [
@@ -888,6 +1140,20 @@
       ],
       "countries": [
         "IT"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "ernestjones.co.uk",
+      "name": "Ernest Jones",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB"
       ],
       "priority": 2
     },
@@ -984,6 +1250,35 @@
       "priority": 2
     },
     {
+      "domain": "fratellowatches.com",
+      "name": "Fratello",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Watch reviews and editorial; not a shop"
+    },
+    {
+      "domain": "frederiqueconstant.com",
+      "name": "Frederique Constant",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH",
+        "US"
+      ],
+      "priority": 2,
+      "note": "Swiss shop on the main site; US shop on us. subdomain and EU shop on direct. subdomain"
+    },
+    {
       "domain": "fust.ch",
       "name": "Fust",
       "roles": [
@@ -1008,7 +1303,8 @@
       "verticals": [
         "computers",
         "electronics",
-        "home"
+        "home",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -1065,6 +1361,61 @@
       "priority": 3
     },
     {
+      "domain": "goldsmiths.co.uk",
+      "name": "Goldsmiths",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "grand-seiko.com",
+      "name": "Grand Seiko",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Official brand site; online sales run on the grandseikoboutique domains"
+    },
+    {
+      "domain": "grandseikoboutique.co.uk",
+      "name": "Grand Seiko Boutique UK",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "grandseikoboutique.us",
+      "name": "Grand Seiko Boutique US",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "grubhub.com",
       "name": "Grubhub",
       "roles": [
@@ -1092,6 +1443,37 @@
       "note": "Phone specifications; not a shop"
     },
     {
+      "domain": "gubelin.com",
+      "name": "Gübelin",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "hamiltonwatch.com",
+      "name": "Hamilton",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH",
+        "FR",
+        "GB",
+        "US"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "hm.com",
       "name": "H&M",
       "roles": [
@@ -1102,6 +1484,19 @@
       ],
       "countries": "global",
       "priority": 2
+    },
+    {
+      "domain": "hodinkee.com",
+      "name": "Hodinkee",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Watch reviews and editorial; not a shop"
     },
     {
       "domain": "hoepli.it",
@@ -1316,6 +1711,32 @@
       "priority": 2
     },
     {
+      "domain": "iwc.com",
+      "name": "IWC Schaffhausen",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "AT",
+        "BE",
+        "CH",
+        "DE",
+        "DK",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "IT",
+        "LU",
+        "SE",
+        "US"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "johnlewis.com",
       "name": "John Lewis",
       "roles": [
@@ -1414,6 +1835,20 @@
       "priority": 1
     },
     {
+      "domain": "kirchhofer.ch",
+      "name": "Kirchhofer",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "kleinanzeigen.de",
       "name": "Kleinanzeigen",
       "roles": [
@@ -1456,6 +1891,20 @@
       "priority": 3
     },
     {
+      "domain": "lepage.fr",
+      "name": "Lepage",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "leroymerlin.fr",
       "name": "Leroy Merlin France",
       "roles": [
@@ -1496,6 +1945,36 @@
         "DE"
       ],
       "priority": 3
+    },
+    {
+      "domain": "longines.com",
+      "name": "Longines",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH",
+        "DE",
+        "GB"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "maier.fr",
+      "name": "Maier",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
     },
     {
       "domain": "manomano.fr",
@@ -1662,6 +2141,19 @@
       "priority": 2
     },
     {
+      "domain": "monochrome-watches.com",
+      "name": "Monochrome Watches",
+      "roles": [
+        "review"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Independent watch reviews and technical articles; not a shop"
+    },
+    {
       "domain": "newegg.com",
       "name": "Newegg",
       "roles": [
@@ -1672,6 +2164,37 @@
         "electronics"
       ],
       "countries": [
+        "US"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "nomos-glashuette.com",
+      "name": "Nomos Glashütte",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "AT",
+        "BE",
+        "CH",
+        "DE",
+        "DK",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "IE",
+        "IT",
+        "LU",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "SE",
         "US"
       ],
       "priority": 2
@@ -1716,6 +2239,37 @@
         "DE"
       ],
       "priority": 2
+    },
+    {
+      "domain": "ocarat.com",
+      "name": "Ocarat",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "omegawatches.com",
+      "name": "Omega",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH",
+        "DE",
+        "GB",
+        "US"
+      ],
+      "priority": 3
     },
     {
       "domain": "openicecat.com",
@@ -1800,6 +2354,19 @@
       "priority": 1
     },
     {
+      "domain": "patek.com",
+      "name": "Patek Philippe",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Official brand site; watches are sold via authorized salons and dealers only"
+    },
+    {
       "domain": "payot.ch",
       "name": "Payot",
       "roles": [
@@ -1827,6 +2394,20 @@
       "priority": 1
     },
     {
+      "domain": "pisa1940.com",
+      "name": "Pisa 1940",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "quattroruote.it",
       "name": "Quattroruote",
       "roles": [
@@ -1839,6 +2420,37 @@
         "IT"
       ],
       "priority": 1
+    },
+    {
+      "domain": "rabat.net",
+      "name": "Rabat",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "rado.com",
+      "name": "Rado",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "CH",
+        "FR",
+        "GB",
+        "US"
+      ],
+      "priority": 2
     },
     {
       "domain": "rei.com",
@@ -1868,13 +2480,42 @@
         "sports",
         "books",
         "auto",
-        "general"
+        "general",
+        "watches"
       ],
       "countries": [
         "CH"
       ],
       "priority": 3,
       "note": "Swiss marketplace for new and used goods"
+    },
+    {
+      "domain": "rocca1794.com",
+      "name": "Rocca 1794",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "IT",
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
+      "domain": "rolex.com",
+      "name": "Rolex",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 3,
+      "note": "Official brand site and retailer locator; no e-commerce"
     },
     {
       "domain": "rtings.com",
@@ -1921,6 +2562,49 @@
       "priority": 2
     },
     {
+      "domain": "seikoco.com",
+      "name": "Seiko Boutique UK",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2,
+      "note": "Official UK online store"
+    },
+    {
+      "domain": "seikousa.com",
+      "name": "Seiko USA",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2,
+      "note": "Official US site of Seiko Watch of America"
+    },
+    {
+      "domain": "seikowatches.com",
+      "name": "Seiko",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Official brand catalog; regional sales run on boutique and distributor sites"
+    },
+    {
       "domain": "subito.it",
       "name": "Subito",
       "roles": [
@@ -1940,6 +2624,18 @@
         "IT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "swatch.com",
+      "name": "Swatch",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2
     },
     {
       "domain": "target.com",
@@ -2008,6 +2704,18 @@
       ],
       "priority": 2,
       "note": "Restaurant discovery and booking; not a delivery offer"
+    },
+    {
+      "domain": "tissotwatches.com",
+      "name": "Tissot",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2
     },
     {
       "domain": "tomshardware.com",
@@ -2121,6 +2829,22 @@
       "priority": 3
     },
     {
+      "domain": "uhrzeit.org",
+      "name": "uhrzeit.org",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "DE",
+        "AT",
+        "CH"
+      ],
+      "priority": 2
+    },
+    {
       "domain": "unieuro.it",
       "name": "Unieuro",
       "roles": [
@@ -2218,6 +2942,66 @@
       "priority": 3
     },
     {
+      "domain": "watchbase.com",
+      "name": "WatchBase",
+      "roles": [
+        "spec"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 3,
+      "note": "Watch specification and reference database; not a shop"
+    },
+    {
+      "domain": "watchcharts.com",
+      "name": "WatchCharts",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": "global",
+      "priority": 2,
+      "note": "Watch market price tracker and index; not a shop"
+    },
+    {
+      "domain": "watchesofswitzerland.com",
+      "name": "Watches of Switzerland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "priority": 3
+    },
+    {
+      "domain": "watchfinder.com",
+      "name": "Watchfinder & Co.",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "GB",
+        "CH",
+        "DE",
+        "FR",
+        "IT",
+        "US"
+      ],
+      "priority": 3
+    },
+    {
       "domain": "waterstones.com",
       "name": "Waterstones",
       "roles": [
@@ -2246,6 +3030,25 @@
         "DE"
       ],
       "priority": 2
+    },
+    {
+      "domain": "wempe.com",
+      "name": "Wempe",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "watches"
+      ],
+      "countries": [
+        "DE",
+        "FR",
+        "GB",
+        "ES",
+        "AT",
+        "US"
+      ],
+      "priority": 3
     },
     {
       "domain": "willhaben.at",
