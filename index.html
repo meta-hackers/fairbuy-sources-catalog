@@ -81,16 +81,16 @@
       .then(response => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
       .then(payload => {
         data = payload.entries || [];
+        const countries = [...new Set(data.flatMap(entry => entry.countries === 'global' ? [] : entry.countries))].sort();
         const metrics = $('metrics');
         metrics.replaceChildren(
           metric('Entries', data.length),
           metric('Schema', payload.schemaVersion),
           metric('Updated', payload.updatedAt ? new Date(payload.updatedAt).toLocaleString() : 'Unknown'),
-          metric('Roles', roles.join(' · ')),
+          metric('Countries', countries.length + (data.some(entry => entry.countries === 'global') ? ' + global' : '')),
         );
         fill($('vertical'), verticals, 'All verticals');
         fill($('role'), roles, 'All roles');
-        const countries = [...new Set(data.flatMap(entry => entry.countries === 'global' ? [] : entry.countries))].sort();
         fill($('country'), ['global', ...countries], 'All countries', value => value === 'global' ? 'Global only' : value);
         render();
       })
