@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T00:03:00.000Z",
+  "updatedAt": "2026-11-04T00:00:00.000Z",
   "entries": [
     {
       "domain": "6pm.com",
@@ -27,8 +27,8 @@
         "computers",
         "electronics",
         "fashion",
-        "home",
-        "general"
+        "general",
+        "home"
       ],
       "countries": [
         "CL"
@@ -214,10 +214,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": "global",
       "priority": 2,
@@ -234,10 +234,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "PL"
@@ -255,11 +255,11 @@
         "sports"
       ],
       "countries": [
-        "FR",
-        "IT",
         "DE",
+        "ES",
+        "FR",
         "GB",
-        "ES"
+        "IT"
       ],
       "priority": 2
     },
@@ -285,15 +285,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -308,14 +308,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -330,15 +330,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -353,15 +353,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -376,15 +376,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -399,13 +399,13 @@
         "marketplace"
       ],
       "verticals": [
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
         "general",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -420,13 +420,13 @@
         "marketplace"
       ],
       "verticals": [
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
         "general",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -441,20 +441,20 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
-        "DE",
-        "AT"
+        "AT",
+        "DE"
       ],
       "priority": 3
     },
@@ -465,15 +465,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -488,15 +488,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -511,15 +511,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
         "groceries",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -536,14 +536,29 @@
       "verticals": [
         "books",
         "electronics",
+        "general",
         "home",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "BR"
       ],
       "priority": 2
+    },
+    {
+      "domain": "andertons.co.uk",
+      "name": "Andertons Music Co.",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "music"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2,
+      "note": "UK musical-instrument retailer; stock, delivery and finance options vary by product."
     },
     {
       "domain": "antartica.cl",
@@ -600,12 +615,12 @@
         "electronics"
       ],
       "countries": [
-        "US",
-        "GB",
         "DE",
+        "ES",
         "FR",
+        "GB",
         "IT",
-        "ES"
+        "US"
       ],
       "priority": 3
     },
@@ -616,14 +631,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "GB"
@@ -640,12 +655,12 @@
         "fashion"
       ],
       "countries": [
+        "DE",
+        "ES",
+        "FR",
         "GB",
         "IT",
-        "DE",
-        "FR",
-        "US",
-        "ES"
+        "US"
       ],
       "priority": 2
     },
@@ -1030,10 +1045,10 @@
       ],
       "verticals": [
         "electronics",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": "global",
       "priority": 2
@@ -1076,11 +1091,41 @@
         "home"
       ],
       "countries": [
+        "AT",
         "CH",
-        "DE",
-        "AT"
+        "DE"
       ],
       "priority": 2
+    },
+    {
+      "domain": "bax-shop.be",
+      "name": "Bax Music België",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "music"
+      ],
+      "countries": [
+        "BE"
+      ],
+      "priority": 2,
+      "note": "Belgian Bax Music storefront; delivery and pricing are localized for Belgium."
+    },
+    {
+      "domain": "bax-shop.nl",
+      "name": "Bax Music",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "music"
+      ],
+      "countries": [
+        "NL"
+      ],
+      "priority": 2,
+      "note": "Dutch musical-instrument retailer; online prices include VAT and delivery is available in the Netherlands and Belgium."
     },
     {
       "domain": "bedbathandbeyond.com",
@@ -1121,9 +1166,9 @@
         "sports"
       ],
       "countries": [
-        "DE",
         "AT",
-        "CH"
+        "CH",
+        "DE"
       ],
       "priority": 1
     },
@@ -1217,9 +1262,9 @@
         "sports"
       ],
       "countries": [
-        "DE",
         "AT",
         "CH",
+        "DE",
         "FR",
         "IT"
       ],
@@ -1232,8 +1277,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "US"
@@ -1247,8 +1292,8 @@
         "seller"
       ],
       "verticals": [
-        "fashion",
         "beauty",
+        "fashion",
         "home",
         "jewelry"
       ],
@@ -1282,10 +1327,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "BE",
@@ -1379,16 +1424,16 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
+        "AT",
         "CH",
         "DE",
-        "AT",
+        "DK",
         "FR",
         "GB",
-        "DK",
         "US"
       ],
       "priority": 3
@@ -1415,8 +1460,8 @@
       ],
       "verticals": [
         "books",
-        "toys_baby",
-        "general"
+        "general",
+        "toys_baby"
       ],
       "countries": [
         "CL"
@@ -1446,9 +1491,9 @@
       ],
       "verticals": [
         "auto",
+        "general",
         "home",
-        "sports",
-        "general"
+        "sports"
       ],
       "countries": [
         "CA"
@@ -1474,8 +1519,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "FR"
@@ -1489,8 +1534,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "AT",
@@ -1531,8 +1576,8 @@
       ],
       "verticals": [
         "electronics",
-        "home",
-        "fashion"
+        "fashion",
+        "home"
       ],
       "countries": [
         "BR"
@@ -1590,14 +1635,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
+        "home",
+        "sports",
         "watches"
       ],
       "countries": "global",
@@ -1610,14 +1655,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "FR"
@@ -1659,8 +1704,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -1811,8 +1856,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "CH"
@@ -1828,9 +1873,9 @@
       "verticals": [
         "computers",
         "electronics",
+        "general",
         "groceries",
-        "home",
-        "general"
+        "home"
       ],
       "countries": [
         "US"
@@ -1845,14 +1890,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "US"
@@ -2128,11 +2173,11 @@
       ],
       "verticals": [
         "electronics",
-        "home",
         "fashion",
+        "general",
+        "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": "global",
       "priority": 2
@@ -2173,9 +2218,9 @@
         "seller"
       ],
       "verticals": [
+        "beauty",
         "fashion",
-        "home",
-        "beauty"
+        "home"
       ],
       "countries": [
         "US"
@@ -2341,7 +2386,9 @@
       "countries": [
         "GB"
       ],
-      "priority": 2
+      "priority": 2,
+      "enabled": false,
+      "note": "Legacy hostname; redirects to musicstore.com. Disabled to avoid duplicate discovery hints."
     },
     {
       "domain": "dxomark.com",
@@ -2376,14 +2423,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "CH"
@@ -2397,14 +2444,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "GB"
@@ -2418,14 +2465,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "US"
@@ -2439,18 +2486,18 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
-        "DE",
-        "AT"
+        "AT",
+        "DE"
       ],
       "priority": 3
     },
@@ -2461,14 +2508,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "FR"
@@ -2482,14 +2529,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "IT"
@@ -2594,14 +2641,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": "global",
       "priority": 1
@@ -2641,18 +2688,18 @@
       "domain": "falabella.com",
       "name": "Falabella",
       "roles": [
-        "marketplace",
-        "seller"
+        "seller",
+        "marketplace"
       ],
       "verticals": [
         "beauty",
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "CL"
@@ -2714,7 +2761,9 @@
       "countries": [
         "CH"
       ],
-      "priority": 2
+      "priority": 2,
+      "enabled": false,
+      "note": "Online shop closed after the Müller acquisition; fcw.ch redirects to mueller.ch. Disabled as a separate discovery hint."
     },
     {
       "domain": "feltrinelli.it",
@@ -2731,6 +2780,21 @@
       "priority": 2
     },
     {
+      "domain": "fielmann.de",
+      "name": "Fielmann",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "eyewear"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2,
+      "note": "German optician with online glasses and contact-lens ordering; frame prices usually exclude prescription lenses until configured."
+    },
+    {
       "domain": "fivebelow.com",
       "name": "Five Below",
       "roles": [
@@ -2738,8 +2802,8 @@
       ],
       "verticals": [
         "general",
-        "toys_baby",
-        "home"
+        "home",
+        "toys_baby"
       ],
       "countries": [
         "US"
@@ -2767,9 +2831,9 @@
         "seller"
       ],
       "verticals": [
+        "books",
         "computers",
         "electronics",
-        "books",
         "home"
       ],
       "countries": [
@@ -2926,6 +2990,40 @@
       "priority": 2
     },
     {
+      "domain": "gear4music.com",
+      "name": "Gear4music",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "music"
+      ],
+      "countries": [
+        "AT",
+        "BE",
+        "CH",
+        "CZ",
+        "DE",
+        "DK",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "IE",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "SE",
+        "SI",
+        "SK",
+        "US"
+      ],
+      "priority": 2,
+      "note": "Localized storefronts are listed on the homepage; distribution centres are in the UK, Ireland, Germany, Spain and Sweden. Confirm delivery at checkout."
+    },
+    {
       "domain": "geizhals.at",
       "name": "Geizhals.at",
       "roles": [
@@ -2967,8 +3065,8 @@
         "food_delivery"
       ],
       "countries": [
-        "IT",
         "ES",
+        "IT",
         "PT"
       ],
       "priority": 3
@@ -3076,8 +3174,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -3122,8 +3220,8 @@
         "seller"
       ],
       "verticals": [
-        "home",
-        "auto"
+        "auto",
+        "home"
       ],
       "countries": [
         "US"
@@ -3153,8 +3251,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "US"
@@ -3168,8 +3266,8 @@
         "seller"
       ],
       "verticals": [
-        "sports",
-        "fashion"
+        "fashion",
+        "sports"
       ],
       "countries": [
         "US"
@@ -3253,8 +3351,8 @@
         "home"
       ],
       "countries": [
-        "DE",
-        "AT"
+        "AT",
+        "DE"
       ],
       "priority": 2
     },
@@ -3265,11 +3363,11 @@
         "seller"
       ],
       "verticals": [
-        "general",
-        "electronics",
-        "home",
         "beauty",
-        "fashion"
+        "electronics",
+        "fashion",
+        "general",
+        "home"
       ],
       "countries": [
         "US"
@@ -3311,14 +3409,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "GB"
@@ -3332,14 +3430,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "DE"
@@ -3353,14 +3451,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "ES"
@@ -3374,14 +3472,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "FR"
@@ -3395,14 +3493,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "IT"
@@ -3416,8 +3514,8 @@
         "seller"
       ],
       "verticals": [
-        "health",
-        "beauty"
+        "beauty",
+        "health"
       ],
       "countries": "global",
       "priority": 2
@@ -3432,14 +3530,14 @@
         "home"
       ],
       "countries": [
-        "CH",
-        "IT",
-        "DE",
         "AT",
+        "CH",
+        "DE",
+        "ES",
         "FR",
         "GB",
-        "US",
-        "ES"
+        "IT",
+        "US"
       ],
       "priority": 3
     },
@@ -3508,8 +3606,8 @@
       "verticals": [
         "computers",
         "electronics",
-        "music",
-        "home"
+        "home",
+        "music"
       ],
       "countries": [
         "AU"
@@ -3567,14 +3665,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "GB"
@@ -3588,10 +3686,10 @@
         "marketplace"
       ],
       "verticals": [
-        "fashion",
-        "home",
         "electronics",
-        "general"
+        "fashion",
+        "general",
+        "home"
       ],
       "countries": "global",
       "priority": 2
@@ -3603,8 +3701,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -3634,8 +3732,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "CL"
@@ -3668,7 +3766,24 @@
       "countries": [
         "IT"
       ],
-      "priority": 3
+      "priority": 3,
+      "enabled": false,
+      "note": "Legacy hostname; redirects to justeat.it. Disabled to avoid duplicate discovery hints."
+    },
+    {
+      "domain": "justeat.it",
+      "name": "Just Eat Italia",
+      "roles": [
+        "marketplace"
+      ],
+      "verticals": [
+        "food_delivery"
+      ],
+      "countries": [
+        "IT"
+      ],
+      "priority": 3,
+      "note": "Canonical Italian storefront; the legacy just-eat.it hostname redirects here."
     },
     {
       "domain": "kabum.com.br",
@@ -3692,14 +3807,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "JP"
@@ -3714,14 +3829,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -3805,14 +3920,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "DE"
@@ -3844,9 +3959,9 @@
       "verticals": [
         "computers",
         "electronics",
+        "general",
         "home",
-        "sports",
-        "general"
+        "sports"
       ],
       "countries": [
         "AU"
@@ -3875,8 +3990,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
         "general",
+        "groceries",
         "health"
       ],
       "countries": [
@@ -3891,10 +4006,10 @@
         "seller"
       ],
       "verticals": [
+        "fashion",
+        "groceries",
         "home",
         "pets",
-        "groceries",
-        "fashion",
         "sports"
       ],
       "countries": [
@@ -3910,14 +4025,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "FR"
@@ -3944,6 +4059,21 @@
         "US"
       ],
       "priority": 3
+    },
+    {
+      "domain": "lenscrafters.com",
+      "name": "LensCrafters",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "eyewear"
+      ],
+      "countries": [
+        "US"
+      ],
+      "priority": 2,
+      "note": "US eyewear retailer with online prescription-glasses and contact-lens ordering; lens options are configured at checkout."
     },
     {
       "domain": "lepage.fr",
@@ -3994,8 +4124,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "CL"
@@ -4010,8 +4140,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "CH"
@@ -4040,11 +4170,11 @@
         "seller"
       ],
       "verticals": [
-        "electronics",
-        "home",
-        "fashion",
         "beauty",
-        "general"
+        "electronics",
+        "fashion",
+        "general",
+        "home"
       ],
       "countries": [
         "MX"
@@ -4105,8 +4235,8 @@
       "verticals": [
         "computers",
         "electronics",
-        "home",
-        "general"
+        "general",
+        "home"
       ],
       "countries": [
         "BR"
@@ -4164,16 +4294,16 @@
         "marketplace"
       ],
       "verticals": [
-        "fashion",
         "beauty",
-        "home",
-        "watches",
-        "jewelry",
-        "toys_baby",
         "electronics",
-        "sports",
+        "fashion",
+        "groceries",
+        "home",
+        "jewelry",
         "office",
-        "groceries"
+        "sports",
+        "toys_baby",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -4310,8 +4440,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
         "general",
+        "groceries",
         "home"
       ],
       "countries": [
@@ -4359,10 +4489,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "CL"
@@ -4381,10 +4511,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "AR"
@@ -4403,10 +4533,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "CO"
@@ -4425,10 +4555,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "MX"
@@ -4447,10 +4577,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "BR"
@@ -4465,14 +4595,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "US"
@@ -4501,8 +4631,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "CH"
@@ -4629,12 +4759,14 @@
       ],
       "verticals": [
         "beauty",
-        "health"
+        "health",
+        "toys_baby"
       ],
       "countries": [
         "CH"
       ],
-      "priority": 2
+      "priority": 2,
+      "note": "Swiss drugstore chain; online assortment includes toys following the Franz Carl Weber acquisition. fcw.ch redirects here."
     },
     {
       "domain": "mueller.de",
@@ -4650,6 +4782,21 @@
         "DE"
       ],
       "priority": 2
+    },
+    {
+      "domain": "musicstore.com",
+      "name": "Music Store (DV247)",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "music"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2,
+      "note": "Former DV247 online shop; dv247.com redirects to the UK storefront. Warranty and returns are handled by Music Store."
     },
     {
       "domain": "musicstore.de",
@@ -4686,8 +4833,8 @@
         "seller"
       ],
       "verticals": [
-        "fashion",
         "beauty",
+        "fashion",
         "jewelry"
       ],
       "countries": [
@@ -4702,8 +4849,8 @@
         "seller"
       ],
       "verticals": [
-        "home",
-        "electronics"
+        "electronics",
+        "home"
       ],
       "countries": [
         "CH"
@@ -4768,12 +4915,12 @@
         "sports"
       ],
       "countries": [
-        "US",
-        "GB",
         "DE",
+        "ES",
         "FR",
+        "GB",
         "IT",
-        "ES"
+        "US"
       ],
       "priority": 3
     },
@@ -4927,8 +5074,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "FR"
@@ -4942,8 +5089,8 @@
         "seller"
       ],
       "verticals": [
-        "sports",
-        "fashion"
+        "fashion",
+        "sports"
       ],
       "countries": [
         "CH"
@@ -4958,14 +5105,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "US"
@@ -4985,6 +5132,21 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "officeworks.com.au",
+      "name": "Officeworks",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "office"
+      ],
+      "countries": [
+        "AU"
+      ],
+      "priority": 2,
+      "note": "Australian office and stationery retailer; delivery and Click & Collect availability vary by postcode."
     },
     {
       "domain": "officeworld.ch",
@@ -5057,12 +5219,12 @@
         "food_delivery"
       ],
       "countries": [
-        "US",
-        "GB",
         "DE",
+        "ES",
         "FR",
+        "GB",
         "IT",
-        "ES"
+        "US"
       ],
       "priority": 1
     },
@@ -5104,8 +5266,8 @@
         "watches"
       ],
       "countries": [
-        "US",
-        "GB"
+        "GB",
+        "US"
       ],
       "priority": 2,
       "note": "Official e-shop; published sales terms name US and UK shipping only. Swiss headquarters and CHF catalog prices do not establish Swiss delivery eligibility."
@@ -5117,14 +5279,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
+        "home",
+        "sports",
         "toys_baby"
       ],
       "countries": [
@@ -5139,8 +5301,8 @@
         "seller"
       ],
       "verticals": [
-        "home",
-        "general"
+        "general",
+        "home"
       ],
       "countries": [
         "US"
@@ -5192,10 +5354,10 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
         "sports",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "CL"
@@ -5281,11 +5443,11 @@
         "computers"
       ],
       "countries": [
-        "US",
+        "AU",
         "CA",
-        "GB",
         "DE",
-        "AU"
+        "GB",
+        "US"
       ],
       "priority": 2,
       "note": "PC component specs and compatibility; prices are retailer links, not offers"
@@ -5424,11 +5586,11 @@
       ],
       "verticals": [
         "electronics",
-        "home",
         "fashion",
+        "general",
+        "home",
         "sports",
-        "watches",
-        "general"
+        "watches"
       ],
       "countries": [
         "CH"
@@ -5457,10 +5619,10 @@
         "seller"
       ],
       "verticals": [
+        "beauty",
+        "fashion",
         "general",
         "home",
-        "fashion",
-        "beauty",
         "jewelry"
       ],
       "countries": [
@@ -5506,9 +5668,9 @@
         "marketplace"
       ],
       "verticals": [
+        "books",
         "electronics",
         "fashion",
-        "books",
         "home",
         "toys_baby"
       ],
@@ -5577,25 +5739,25 @@
         "review"
       ],
       "verticals": [
+        "auto",
+        "beauty",
+        "books",
         "computers",
         "electronics",
-        "home",
+        "eyewear",
         "fashion",
-        "sports",
-        "books",
-        "auto",
+        "food_delivery",
         "general",
-        "watches",
-        "beauty",
+        "groceries",
         "health",
-        "pets",
-        "toys_baby",
+        "home",
+        "jewelry",
         "music",
         "office",
-        "eyewear",
-        "jewelry",
-        "groceries",
-        "food_delivery"
+        "pets",
+        "sports",
+        "toys_baby",
+        "watches"
       ],
       "countries": "global",
       "priority": 1,
@@ -5734,14 +5896,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
+        "home",
+        "sports",
         "watches"
       ],
       "countries": [
@@ -5760,9 +5922,9 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
-        "sports",
-        "general"
+        "sports"
       ],
       "countries": [
         "CL"
@@ -5780,8 +5942,8 @@
         "watches"
       ],
       "countries": [
-        "IT",
-        "CH"
+        "CH",
+        "IT"
       ],
       "priority": 2
     },
@@ -5828,6 +5990,21 @@
       "note": "Independent product tests; not a shop"
     },
     {
+      "domain": "ryman.co.uk",
+      "name": "Ryman",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "office"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2,
+      "note": "UK stationery and office-supply retailer; online prices and delivery options vary by item."
+    },
+    {
       "domain": "safeway.com",
       "name": "Safeway",
       "roles": [
@@ -5848,8 +6025,8 @@
         "seller"
       ],
       "verticals": [
-        "fashion",
         "beauty",
+        "fashion",
         "jewelry"
       ],
       "countries": [
@@ -5864,8 +6041,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "US"
@@ -6106,6 +6283,36 @@
       "priority": 2
     },
     {
+      "domain": "specsavers.co.uk",
+      "name": "Specsavers UK",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "eyewear"
+      ],
+      "countries": [
+        "GB"
+      ],
+      "priority": 2,
+      "note": "UK optician with online glasses and contact-lens ordering; prescription and lens options are configured at checkout."
+    },
+    {
+      "domain": "specsavers.ie",
+      "name": "Specsavers Ireland",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "eyewear"
+      ],
+      "countries": [
+        "IE"
+      ],
+      "priority": 2,
+      "note": "Irish optician with online glasses and contact-lens ordering; prescription and lens options are configured at checkout."
+    },
+    {
       "domain": "sprouts.com",
       "name": "Sprouts Farmers Market",
       "roles": [
@@ -6119,6 +6326,21 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "staples.ca",
+      "name": "Staples Canada",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "office"
+      ],
+      "countries": [
+        "CA"
+      ],
+      "priority": 2,
+      "note": "Canadian office-supply storefront; online prices and delivery eligibility can differ from stores."
     },
     {
       "domain": "staples.com",
@@ -6155,14 +6377,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "IT"
@@ -6223,15 +6445,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
-        "groceries"
+        "groceries",
+        "home",
+        "sports"
       ],
       "countries": [
         "US"
@@ -6261,9 +6483,9 @@
         "computers",
         "electronics",
         "fashion",
+        "general",
         "home",
-        "toys_baby",
-        "general"
+        "toys_baby"
       ],
       "countries": [
         "CL",
@@ -6279,8 +6501,8 @@
         "seller"
       ],
       "verticals": [
-        "groceries",
-        "general"
+        "general",
+        "groceries"
       ],
       "countries": [
         "GB"
@@ -6312,10 +6534,10 @@
       ],
       "countries": [
         "CH",
-        "IT",
-        "FR",
         "ES",
+        "FR",
         "GB",
+        "IT",
         "US"
       ],
       "priority": 2,
@@ -6328,8 +6550,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -6393,7 +6615,25 @@
       "countries": [
         "ES"
       ],
-      "priority": 2
+      "priority": 2,
+      "enabled": false,
+      "note": "Legacy hostname; redirects to tiendanimal.es. Disabled to avoid duplicate discovery hints."
+    },
+    {
+      "domain": "tiendanimal.es",
+      "name": "Tiendanimal",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "pets"
+      ],
+      "countries": [
+        "ES"
+      ],
+      "priority": 2,
+      "note": "Spanish pet store and marketplace; tiendanimal.com redirects here. Third-party seller offers are identified on listings."
     },
     {
       "domain": "tiffany.com",
@@ -6468,14 +6708,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "CH"
@@ -6503,9 +6743,9 @@
         "seller"
       ],
       "verticals": [
+        "general",
         "home",
-        "pets",
-        "general"
+        "pets"
       ],
       "countries": [
         "US"
@@ -6537,14 +6777,14 @@
         "comparison"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "IT"
@@ -6571,14 +6811,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "CH"
@@ -6596,13 +6836,13 @@
       ],
       "countries": [
         "CH",
-        "IT",
+        "CL",
         "DE",
+        "ES",
         "FR",
         "GB",
-        "US",
-        "ES",
-        "CL"
+        "IT",
+        "US"
       ],
       "priority": 3
     },
@@ -6613,12 +6853,12 @@
         "seller"
       ],
       "verticals": [
-        "electronics",
-        "home",
-        "fashion",
         "beauty",
-        "toys_baby",
-        "sports"
+        "electronics",
+        "fashion",
+        "home",
+        "sports",
+        "toys_baby"
       ],
       "countries": "global",
       "priority": 2
@@ -6630,8 +6870,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -6646,8 +6886,8 @@
         "seller"
       ],
       "verticals": [
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": [
         "CH"
@@ -6665,9 +6905,9 @@
         "watches"
       ],
       "countries": [
-        "DE",
         "AT",
-        "CH"
+        "CH",
+        "DE"
       ],
       "priority": 2
     },
@@ -6724,12 +6964,12 @@
         "fashion"
       ],
       "countries": [
-        "IT",
-        "FR",
         "DE",
+        "ES",
+        "FR",
         "GB",
-        "US",
-        "ES"
+        "IT",
+        "US"
       ],
       "priority": 2
     },
@@ -6755,14 +6995,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "GB"
@@ -6777,8 +7017,8 @@
       ],
       "verticals": [
         "fashion",
-        "watches",
-        "jewelry"
+        "jewelry",
+        "watches"
       ],
       "countries": "global",
       "priority": 2
@@ -6790,15 +7030,30 @@
         "seller"
       ],
       "verticals": [
-        "watches",
+        "fashion",
         "home",
-        "fashion"
+        "watches"
       ],
       "countries": [
         "CH"
       ],
       "priority": 2,
       "note": "Official Swiss storefront at /en-CH for watches, cutlery, tools and travel gear; Swiss shipping eligibility is explicitly documented."
+    },
+    {
+      "domain": "viking.de",
+      "name": "Viking",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "office"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "priority": 2,
+      "note": "German office-supply shop; business pricing and delivery terms may differ from consumer checkout."
     },
     {
       "domain": "vinted.com",
@@ -6811,12 +7066,12 @@
         "general"
       ],
       "countries": [
-        "IT",
         "DE",
+        "ES",
         "FR",
         "GB",
-        "US",
-        "ES"
+        "IT",
+        "US"
       ],
       "priority": 2
     },
@@ -6842,15 +7097,15 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
         "general",
-        "groceries"
+        "groceries",
+        "home",
+        "sports"
       ],
       "countries": [
         "US"
@@ -6937,10 +7192,10 @@
         "watches"
       ],
       "countries": [
-        "GB",
         "CH",
         "DE",
         "FR",
+        "GB",
         "IT",
         "US"
       ],
@@ -6970,9 +7225,9 @@
         "home"
       ],
       "countries": [
-        "US",
+        "DE",
         "GB",
-        "DE"
+        "US"
       ],
       "priority": 2
     },
@@ -7000,11 +7255,11 @@
         "watches"
       ],
       "countries": [
+        "AT",
         "DE",
+        "ES",
         "FR",
         "GB",
-        "ES",
-        "AT",
         "US"
       ],
       "priority": 3
@@ -7030,14 +7285,14 @@
         "marketplace"
       ],
       "verticals": [
+        "auto",
+        "books",
         "computers",
         "electronics",
-        "home",
         "fashion",
-        "sports",
-        "books",
-        "auto",
-        "general"
+        "general",
+        "home",
+        "sports"
       ],
       "countries": [
         "AT"
@@ -7127,10 +7382,10 @@
         "fashion"
       ],
       "countries": [
-        "IT",
         "DE",
         "FR",
         "GB",
+        "IT",
         "US"
       ],
       "priority": 2
@@ -7173,8 +7428,8 @@
         "fashion"
       ],
       "countries": [
-        "DE",
-        "AT"
+        "AT",
+        "DE"
       ],
       "priority": 3
     },

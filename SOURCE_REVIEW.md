@@ -1,6 +1,6 @@
-# Source quality review — 2026-11-03
+# Source quality review
 
-## Outcome and scope
+## Outcome and scope — 2026-11-03
 
 The catalog contains 445 entries across 26 country codes and 19 verticals.
 This was a targeted semantic review, not a live verification of every source or
@@ -49,8 +49,9 @@ domain a forbidden offer URL.
 - **Other mixed retailers:** audit remaining seller-only classifications for
   third-party listings. Confirm the merchant of record per offer even after a
   marketplace role is added.
-- **Coverage is uneven:** office (4), eyewear (6), and music (8) have fewer entries
-  than electronics (153). Counts include disabled sources and overlapping tags;
+- **Coverage is uneven:** office (4), eyewear (6), and music (8) had fewer entries
+  than electronics (153) at the time of this review; the 2026-11-04 pass raised
+  them to 9, 10 and 13. Counts include disabled sources and overlapping tags;
   they are not quality scores. Prefer verified local coverage over bulk additions.
 - **No availability conclusions from HTTP errors:** bot protection, geolocation,
   and transient failures can return 403/429 or redirects. This review did not
@@ -161,3 +162,59 @@ Preserved names, roles, countries, verticals and priorities. Timeout-only and
 HTTP-blocked sources remain enabled because these checks do not establish that
 their websites are broken. Search results also show a shop at `www.uhrzeit.org`,
 despite connection failures from this environment.
+
+## Hostname, coverage and normalization review — 2026-11-04
+
+The catalog now contains 473 entries across 29 country codes and 20 verticals;
+466 are enabled and 7 are disabled. This pass corrected four stale hostnames,
+added 12 verified sources in the under-covered office, eyewear and music
+verticals, and made ordering and validation stricter. No entries were deleted;
+four stale hints were disabled and three canonical hostnames were added.
+
+### Hostname corrections
+
+| Source | Decision | Evidence |
+|---|---|---|
+| `just-eat.it` → `justeat.it` | Disabled the legacy hyphenated hostname and added the canonical Italian storefront. | [`just-eat.it` returns a 301 to `www.justeat.it`](https://www.justeat.it/); Just Eat's newsroom identifies [`www.justeat.it`](https://newsroom.justeattakeaway.com/it-IT/246288-just-eat-svela-le-nuove-abitudini-alimentari-degli-italiani-gusto-e-salute-sono-la-nuova-normalita) as the Italian site. |
+| `tiendanimal.com` → `tiendanimal.es` | Disabled the legacy `.com` hostname and added the Spanish storefront. Added `marketplace` because Tiendanimal operates a third-party marketplace. | [`tiendanimal.com` returns a 301 to `www.tiendanimal.es`](https://www.tiendanimal.es/); the official [marketplace page](https://www.tiendanimal.es/vender-en-tiendanimal) and [marketplace terms](https://www.tiendanimal.es/condiciones-marketplace.html) describe third-party sellers. |
+| `dv247.com` → `musicstore.com` | Disabled DV247 and added the Music Store UK storefront. | Music Store's own [DV247 history page](https://www.musicstore.com/en_GB/GBP/history-of-dv247) documents the online transition from `dv247.com` to `musicstore.com`; `dv247.com` redirects to the UK storefront. |
+| `fcw.ch` → `mueller.ch` | Disabled the separate Franz Carl Weber hint after its online shop closed; added `toys_baby` to the existing Müller Switzerland entry. | [SRF reports the conversion of Franz Carl Weber stores after the Müller acquisition](https://www.srf.ch/news/wirtschaft/drogerie-statt-spielzeugladen-viele-franz-carl-weber-filialen-verschwinden-mueller-zieht-ein); `fcw.ch` redirects to `mueller.ch`, whose [Swiss online shop lists a toy assortment](https://www.mueller.ch/c/spielwaren). |
+
+The legacy domains remain in the catalog as disabled entries with explanatory
+notes, preserving their roles for FairBuy's safety checks while preventing
+duplicate discovery hints.
+
+### New sources
+
+| Domain | Scope | Official evidence |
+|---|---|---|
+| `staples.ca` | Office; CA | [Canadian storefront](https://www.staples.ca/) states that the site is intended for Canadian residents. |
+| `officeworks.com.au` | Office; AU | [Australian office and stationery storefront](https://www.officeworks.com.au/) with online ordering, delivery and Click & Collect. |
+| `ryman.co.uk` | Office; GB | [UK stationery and office supplies](https://www.ryman.co.uk/stationery) with basket and checkout. |
+| `viking.de` | Office; DE | [German office-supply online shop](https://www.viking.de/de/). |
+| `specsavers.co.uk` | Eyewear; GB | [UK prescription glasses](https://www.specsavers.co.uk/glasses) and online contact-lens ordering. |
+| `specsavers.ie` | Eyewear; IE | [Irish optician](https://www.specsavers.ie/) with online contact-lens ordering. |
+| `fielmann.de` | Eyewear; DE | [German optician](https://www.fielmann.de/) with online and in-store ordering. |
+| `lenscrafters.com` | Eyewear; US | [US prescription glasses, sunglasses and contacts](https://www.lenscrafters.com/). |
+| `andertons.co.uk` | Music; GB | [UK musical-instrument store](https://www.andertons.co.uk/). |
+| `gear4music.com` | Music; 19 European markets plus the US | [Localized storefronts](https://www.gear4music.com/) and distribution centres in the UK, Ireland, Germany, Spain and Sweden. |
+| `bax-shop.nl` | Music; NL | [Dutch music shop](https://www.bax-shop.nl/muziekinstrumenten); the site states delivery in the Netherlands and Belgium. |
+| `bax-shop.be` | Music; BE | [Belgian Bax Music storefront](https://www.bax-shop.be/nl/muziekwinkel). |
+
+All new shops use secondary priority (2). Online prices, delivery eligibility
+and configured options still need to be checked at listing level. Gear4music's
+country list follows the localized storefronts listed on its homepage; it is not
+a guarantee that every item ships to every listed country. Office coverage rose
+from 5 to 9 entries, eyewear from 6 to 10, and music from 8 to 13.
+
+### Normalization and validation
+
+- `sources.json` now sorts entries by domain, roles in canonical order, and
+  verticals and countries alphabetically.
+- `scripts/normalize.mjs` applies the canonical ordering; `--check` fails
+  without writing when the file is not normalized.
+- `scripts/validate.mjs` now rejects unsorted data, unknown ISO 3166-1 codes,
+  disabled entries without a note, mixed context/offer roles, and non-UTC
+  `updatedAt` values.
+- The JSON Schema documents the same constraints. It cannot express array
+  ordering, so the validator remains authoritative.
