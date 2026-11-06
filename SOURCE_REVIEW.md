@@ -218,3 +218,93 @@ from 5 to 9 entries, eyewear from 6 to 10, and music from 8 to 13.
   `updatedAt` values.
 - The JSON Schema documents the same constraints. It cannot express array
   ordering, so the validator remains authoritative.
+
+## Portugal expansion — 2026-11-06
+
+Added 30 Portuguese discovery sources and extended two existing multi-country
+entries to Portugal. The catalog now contains 503 entries (496 enabled and 7
+disabled); 40 entries list Portugal, up from 8 before this pass. Many of those
+40 are multi-country brands, so this is not a claim of exhaustive Portuguese
+retail coverage.
+
+### Decisions and evidence
+
+| Domain | Scope and classification | Evidence |
+|---|---|---|
+| `auchan.pt` | Portuguese hypermarket; seller; groceries, home, technology, beauty, health, pets and toys | [Online shop](https://www.auchan.pt/), [delivery limited to mainland Portugal](https://www.auchan.pt/pt/vantagens-do-online/) |
+| `bertrand.pt` | Portuguese bookseller; seller | [Online bookshop and delivery/pickup options](https://www.bertrand.pt/online/comprar-em-bertrand-online) |
+| `boutiquedosrelogios.pt` | Portuguese watch and jewellery seller, including pre-owned stock | [Watch listing with basket](https://boutiquedosrelogios.pt/pt/classic-tissot-t006-407-16-033-01), [outlet listings](https://boutiquedosrelogios.pt/pt/produtos/special-prices) |
+| `chip7.pt` | Portuguese computer and electronics retailer; seller | [Storefront with prices, stock and delivery](https://chip7.pt/) |
+| `continente.pt` | Portuguese supermarket and marketplace; seller and marketplace | [Online supermarket](https://www.continente.pt/); marketplace is documented by [eBrands](https://www.ebrands.com/channels/continente) and [Cognisance](https://www.cognisance.de/marktplaetze/continente) |
+| `darty.pt` | Portuguese technology and appliance retailer; seller | [Darty Portugal](https://darty.pt/), [MediaMarkt-to-Darty transition notice](https://darty.pt/pages/mediamarkt) |
+| `decathlon.pt` | Portuguese sports retailer with marketplace; seller and marketplace | [Decathlon Portugal marketplace explanation](https://www.decathlon.pt/c/lp/landing-page-cliente-o-que-e-o-marketplace_30425af1-dca3-45c0-94c9-7e3bb63cf909), [general sales terms](https://www.decathlon.pt/lp/i/condicoes-gerais-de-venda) |
+| `elcorteingles.pt` | Portuguese department store and marketplace; seller and marketplace | [Portuguese storefront](https://www.elcorteingles.pt/); marketplace coverage is documented by [Lengow](https://www.lengow.com/integrations/el-corte-ingles) and [ChannelEngine](https://support.channelengine.com/hc/en-us/articles/32722734386077-El-Corte-Ingl%C3%A9s-marketplace-guide) |
+| `fnac.pt` | Portuguese culture and technology retailer with marketplace; seller and marketplace | [Fnac marketplace explanation](https://ajuda.fnac.pt/hc/pt-pt/articles/360002915458-O-que-%C3%A9-o-Marketplace), [Portuguese storefront](https://www.fnac.pt/) |
+| `globaldata.pt` | Portuguese computer and electronics retailer; seller | [Laptop catalogue](https://www.globaldata.pt/computadores/computadores-portateis) |
+| `grandoptical.pt` | Portuguese optician with online sunglasses and contact lenses; seller | [Sunglasses catalogue with prices](https://www.grandoptical.pt/oculos-de-sol/sale), [contact-lens catalogue](https://www.grandoptical.pt/lentes-de-contacto/multifocais) |
+| `jdsports.pt` | Portuguese sports and fashion storefront; seller | [Portuguese online shop](https://www.jdsports.pt/) |
+| `kuantokusta.pt` | Portuguese price comparison and marketplace; comparison only | [About KuantoKusta](https://www.kuantokusta.pt/public/quem-somos), [marketplace FAQ](https://www.kuantokusta.pt/public/geral-faqs) |
+| `lanidor.com` | Portuguese fashion brand; seller | [Online shop](https://www.lanidor.com/) |
+| `leroymerlin.pt` | Portuguese DIY and home retailer with marketplace; seller and marketplace | [Leroy Merlin marketplace explanation](https://www.leroymerlin.pt/marketplace/) |
+| `mo-online.com` | Portuguese fashion brand; seller | [MO online shop](https://mo-online.com/pt/home/) |
+| `musifex.pt` | Portuguese musical-instrument retailer; seller | [Instrument, audio and studio catalogue](https://www.musifex.pt/) |
+| `norauto.pt` | Portuguese automotive service and parts retailer; seller | [Online tyre catalogue with fitting options](https://www.norauto.pt/e/pneu.html) |
+| `pcdiga.com` | Portuguese computer and electronics retailer; seller | [Laptop catalogue](https://www.pcdiga.com/computadores-e-software/computadores-laptop) |
+| `perfumesclub.pt` | Portuguese beauty and perfume storefront; seller | [Perfume catalogue](https://www.perfumesclub.pt/) |
+| `pingodoce.pt` | Portuguese supermarket; seller | [Online product catalogue with postcode-based delivery](https://www.pingodoce.pt/home/produtos/promocoes) |
+| `radiopopular.pt` | Portuguese electronics and appliance retailer; seller | [TV catalogue](https://www.radiopopular.pt/categoria/tvs) |
+| `sephora.pt` | Portuguese beauty retailer; seller | [Product catalogue with basket](https://www.sephora.pt/shampoos-c514) |
+| `sprintersports.com` | Portuguese Sport Zone sports and fashion storefront; seller | [Sport Zone at /pt](https://www.sprintersports.com/pt) |
+| `staples.pt` | Portuguese office and technology retailer; seller | [Staples Portugal online store description](https://www.staples.pt/pt/pt/conheca-a-staples), [current product campaign](https://www.staples.pt/pt/pt/blackfriday) |
+| `toysrus.pt` | Portuguese toy and video-game retailer; seller | [Online toy catalogue](https://www.toysrus.pt/) |
+| `wells.pt` | Portuguese parapharmacy and beauty retailer; seller | [Wells product catalogue with basket](https://wells.pt/marcas/w/wells) |
+| `wook.pt` | Portuguese online bookseller; seller | [Book listings and delivery terms](https://www.wook.pt/destaques/livros-com-oferta/5839/10121) |
+| `worten.pt` | Portuguese technology and appliance retailer with marketplace; seller and marketplace | [Worten marketplace explanation](https://www.worten.pt/marketplace), [marketplace terms](https://www.worten.pt/termos-e-condicoes-da-conta-online) |
+| `zoomalia.pt` | Portuguese pet-supply storefront; seller | [Pet food and accessory catalogue](https://www.zoomalia.pt/) |
+
+Existing entries extended:
+
+| Domain | Change | Evidence |
+|---|---|---|
+| `ikea.com` | Added PT; the Portuguese country site is `ikea.com/pt/pt/`. | [Portuguese storefront with prices, basket and delivery](https://www.ikea.com/pt/pt/) |
+| `ubereats.com` | Added PT; Uber Eats lists Portuguese cities and islands. | [Portuguese city coverage](https://www.ubereats.com/pt/location) |
+
+### Classification notes
+
+- `worten.pt`, `fnac.pt`, `elcorteingles.pt`, `continente.pt`,
+  `decathlon.pt` and `leroymerlin.pt` are tagged both seller and marketplace
+  because the same storefront carries first-party stock and clearly identified
+  third-party offers. Marketplace items can have different sellers, shipping,
+  returns and warranty terms; those must be checked at listing level.
+- `kuantokusta.pt` is kept as `comparison` only. It also operates a marketplace,
+  but the catalog rule forbids combining a context-only role with
+  `seller`/`marketplace`, so its offer URLs remain context rather than direct
+  price sources.
+- `darty.pt` replaces the former MediaMarkt Portugal brand, which moved to
+  Darty on 2025-10-01; `mediamarkt.pt` redirects to the Darty site. The legacy
+  hostname was not added.
+- `sprintersports.com` is the current home of the Portuguese Sport Zone
+  storefront at `/pt`; the domain also serves Spain, so only Portugal was
+  assigned in this pass.
+- `boutiquedosrelogios.pt` includes pre-owned watches; compare by reference,
+  condition, accessories, service history and warranty rather than headline
+  price. `grandoptical.pt` advertises frames that usually exclude prescription
+  lenses; only configured prices are comparable.
+
+### Excluded candidates
+
+- `sitel.pt` is a parked domain, not a retailer.
+- `petmaxi.pt` is primarily a pet-food manufacturer; its site directs buyers to
+  retailers and no clear direct checkout was verified.
+- `primor.pt` belongs to a Portuguese charcuterie business, not the Primor beauty
+  chain.
+- `autodoc.pt` belongs to a Portuguese vehicle-documentation service, not the
+  AUTODOC car-parts marketplace.
+- `mediamarkt.pt` redirects to `darty.pt` and was not added separately.
+
+Prices, delivery fees, island coverage and marketplace seller terms in Portugal
+still need to be checked at listing level. Postcode-based pricing is common for
+groceries and appliances, and free-delivery thresholds are not uniform.
+
+Validation: `node scripts/normalize.mjs` and `node scripts/validate.mjs` both
+pass; `updatedAt` is `2026-11-06T00:00:00.000Z`.

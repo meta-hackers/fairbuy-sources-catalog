@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "updatedAt": "2026-11-06T00:00:00.000Z",
   "entries": [
     {
       "domain": "6pm.com",
@@ -665,6 +665,29 @@
       "priority": 2
     },
     {
+      "domain": "auchan.pt",
+      "name": "Auchan Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty",
+        "computers",
+        "electronics",
+        "general",
+        "groceries",
+        "health",
+        "home",
+        "pets",
+        "toys_baby"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Online delivery is limited to mainland Portugal; prices and availability depend on the delivery postcode."
+    },
+    {
       "domain": "audemarspiguet.com",
       "name": "Audemars Piguet",
       "roles": [
@@ -1173,6 +1196,21 @@
       "priority": 1
     },
     {
+      "domain": "bertrand.pt",
+      "name": "Bertrand",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Free mainland delivery from €16 or free pickup at Bertrand bookstores."
+    },
+    {
       "domain": "bestbuy.ca",
       "name": "Best Buy Canada",
       "roles": [
@@ -1354,6 +1392,22 @@
         "FR"
       ],
       "priority": 3
+    },
+    {
+      "domain": "boutiquedosrelogios.pt",
+      "name": "Boutique dos Relógios",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "jewelry",
+        "watches"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Includes pre-owned watches; condition, warranty and provenance differ per listing."
     },
     {
       "domain": "brack.ch",
@@ -1698,6 +1752,22 @@
       "priority": 2
     },
     {
+      "domain": "chip7.pt",
+      "name": "CHIP7",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Franchised store network; online stock and store pickup vary by location."
+    },
+    {
       "domain": "christ-swiss.ch",
       "name": "CHRIST Switzerland",
       "roles": [
@@ -1816,6 +1886,31 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "continente.pt",
+      "name": "Continente",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "beauty",
+        "books",
+        "computers",
+        "electronics",
+        "general",
+        "groceries",
+        "health",
+        "home",
+        "pets",
+        "toys_baby"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 3,
+      "note": "Online prices and promotions depend on the delivery postcode; marketplace includes third-party non-food offers."
     },
     {
       "domain": "coolblue.be",
@@ -2011,6 +2106,23 @@
       "priority": 3
     },
     {
+      "domain": "darty.pt",
+      "name": "Darty Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Former MediaMarkt Portugal; mediamarkt.pt redirects here."
+    },
+    {
       "domain": "decathlon.ch",
       "name": "Decathlon Schweiz",
       "roles": [
@@ -2079,6 +2191,22 @@
         "IT"
       ],
       "priority": 3
+    },
+    {
+      "domain": "decathlon.pt",
+      "name": "Decathlon Portugal",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "sports"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 3,
+      "note": "Marketplace items are sold and shipped by partner sellers; store returns are excluded."
     },
     {
       "domain": "deliveroo.be",
@@ -2544,6 +2672,32 @@
       "priority": 3
     },
     {
+      "domain": "elcorteingles.pt",
+      "name": "El Corte Inglés Portugal",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "beauty",
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "groceries",
+        "home",
+        "jewelry",
+        "sports",
+        "toys_baby",
+        "watches"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 3,
+      "note": "Marketplace offers come from selected third-party brands; confirm the seller and delivery at checkout."
+    },
+    {
       "domain": "elgiganten.dk",
       "name": "Elgiganten Danmark",
       "roles": [
@@ -2842,6 +2996,26 @@
       "priority": 3
     },
     {
+      "domain": "fnac.pt",
+      "name": "Fnac Portugal",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "books",
+        "computers",
+        "electronics",
+        "home",
+        "toys_baby"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 3,
+      "note": "Marketplace items ship only to mainland Portugal and are not eligible for store returns."
+    },
+    {
       "domain": "footlocker.com",
       "name": "Foot Locker",
       "roles": [
@@ -3056,6 +3230,22 @@
       "priority": 2
     },
     {
+      "domain": "globaldata.pt",
+      "name": "Globaldata",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Component and gaming stock varies; confirm availability and delivery at checkout."
+    },
+    {
       "domain": "glovoapp.com",
       "name": "Glovo",
       "roles": [
@@ -3111,6 +3301,21 @@
       "countries": "global",
       "priority": 2,
       "note": "Official brand site; online sales run on the grandseikoboutique domains"
+    },
+    {
+      "domain": "grandoptical.pt",
+      "name": "GrandOptical Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "eyewear"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Advertised frame prices usually exclude prescription lenses; only configured prices are comparable."
     },
     {
       "domain": "grandseikoboutique.co.uk",
@@ -3537,9 +3742,11 @@
         "FR",
         "GB",
         "IT",
+        "PT",
         "US"
       ],
-      "priority": 3
+      "priority": 3,
+      "note": "Country site ikea.com/pt/pt; delivery options and prices vary by postcode."
     },
     {
       "domain": "instacart.com",
@@ -3642,6 +3849,22 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "jdsports.pt",
+      "name": "JD Sports Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Portuguese storefront; delivery and returns are handled locally."
     },
     {
       "domain": "jenni-uhren.ch",
@@ -4000,6 +4223,32 @@
       "priority": 3
     },
     {
+      "domain": "kuantokusta.pt",
+      "name": "KuantoKusta",
+      "roles": [
+        "comparison"
+      ],
+      "verticals": [
+        "auto",
+        "beauty",
+        "books",
+        "computers",
+        "electronics",
+        "fashion",
+        "general",
+        "health",
+        "home",
+        "pets",
+        "sports",
+        "toys_baby"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Price comparison and marketplace; it is not the merchant of record for every offer."
+    },
+    {
       "domain": "landi.ch",
       "name": "LANDI",
       "roles": [
@@ -4017,6 +4266,21 @@
       ],
       "priority": 2,
       "note": "Swiss online shop for garden, household, pet and leisure products; select postcode or store for delivery dates and collection availability."
+    },
+    {
+      "domain": "lanidor.com",
+      "name": "Lanidor",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Online stock and delivery options vary by item."
     },
     {
       "domain": "leboncoin.fr",
@@ -4116,6 +4380,22 @@
         "IT"
       ],
       "priority": 2
+    },
+    {
+      "domain": "leroymerlin.pt",
+      "name": "Leroy Merlin Portugal",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "home"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Marketplace items are sold and shipped by third-party sellers; store returns are excluded."
     },
     {
       "domain": "lider.cl",
@@ -4696,6 +4976,21 @@
       "priority": 3
     },
     {
+      "domain": "mo-online.com",
+      "name": "MO",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Sizes and stock vary between the online store and physical shops."
+    },
+    {
       "domain": "mobile.de",
       "name": "mobile.de",
       "roles": [
@@ -4811,6 +5106,21 @@
         "DE"
       ],
       "priority": 2
+    },
+    {
+      "domain": "musifex.pt",
+      "name": "Musifex",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "music"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Instrument condition, setup and warranty vary by listing."
     },
     {
       "domain": "nanoreview.net",
@@ -4954,6 +5264,21 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "norauto.pt",
+      "name": "Norauto Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "auto"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Tyre prices exclude fitting unless selected; services are booked per workshop."
     },
     {
       "domain": "nordstrom.com",
@@ -5406,6 +5731,22 @@
       "priority": 2
     },
     {
+      "domain": "pcdiga.com",
+      "name": "PCDIGA",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 3,
+      "note": "Component and gaming stock varies; free mainland delivery applies above €50."
+    },
+    {
       "domain": "pcfactory.cl",
       "name": "PC Factory",
       "roles": [
@@ -5465,6 +5806,21 @@
         "CL"
       ],
       "priority": 3
+    },
+    {
+      "domain": "perfumesclub.pt",
+      "name": "Perfume's Club Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Prices and delivery options vary by destination; confirm at checkout."
     },
     {
       "domain": "petco.cl",
@@ -5535,6 +5891,27 @@
       ],
       "priority": 2,
       "note": "App-based supermarket; delivery slots and prices are regional"
+    },
+    {
+      "domain": "pingodoce.pt",
+      "name": "Pingo Doce",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty",
+        "books",
+        "groceries",
+        "health",
+        "home",
+        "pets",
+        "toys_baby"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Online prices and delivery slots depend on the postcode; some products are store-only."
     },
     {
       "domain": "pisa1940.com",
@@ -5643,6 +6020,23 @@
         "ES"
       ],
       "priority": 2
+    },
+    {
+      "domain": "radiopopular.pt",
+      "name": "Rádio Popular",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "home"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Online prices and delivery vary by postcode; some items are store-only."
     },
     {
       "domain": "rado.com",
@@ -6181,6 +6575,21 @@
       "priority": 2
     },
     {
+      "domain": "sephora.pt",
+      "name": "Sephora Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Free-delivery thresholds and island coverage vary; confirm at checkout."
+    },
+    {
       "domain": "shein.com",
       "name": "SHEIN",
       "roles": [
@@ -6313,6 +6722,22 @@
       "note": "Irish optician with online glasses and contact-lens ordering; prescription and lens options are configured at checkout."
     },
     {
+      "domain": "sprintersports.com",
+      "name": "Sport Zone",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "fashion",
+        "sports"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Portuguese Sport Zone storefront at /pt; the same domain also serves Spain."
+    },
+    {
       "domain": "sprouts.com",
       "name": "Sprouts Farmers Market",
       "roles": [
@@ -6355,6 +6780,23 @@
         "US"
       ],
       "priority": 2
+    },
+    {
+      "domain": "staples.pt",
+      "name": "Staples Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "office"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Business pricing, bulk packs and delivery surcharges can make headline prices non-comparable."
     },
     {
       "domain": "stockx.com",
@@ -6737,6 +7179,21 @@
       "priority": 2
     },
     {
+      "domain": "toysrus.pt",
+      "name": "Toys \"R\" Us Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "toys_baby"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Stock and delivery options vary by item and destination."
+    },
+    {
       "domain": "tractorsupply.com",
       "name": "Tractor Supply",
       "roles": [
@@ -6842,6 +7299,7 @@
         "FR",
         "GB",
         "IT",
+        "PT",
         "US"
       ],
       "priority": 3
@@ -7246,6 +7704,22 @@
       "priority": 2
     },
     {
+      "domain": "wells.pt",
+      "name": "Well's",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "beauty",
+        "health"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Authorised to sell non-prescription medicines online; checkout availability varies by item."
+    },
+    {
       "domain": "wempe.com",
       "name": "Wempe",
       "roles": [
@@ -7328,6 +7802,21 @@
       "priority": 2
     },
     {
+      "domain": "wook.pt",
+      "name": "Wook",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "books"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Free standard mainland delivery for books from €16; island terms differ."
+    },
+    {
       "domain": "wornandwound.com",
       "name": "Worn & Wound",
       "roles": [
@@ -7339,6 +7828,26 @@
       "countries": "global",
       "priority": 2,
       "note": "Watch reviews, news and buying guides; affiliated Windup retail operates on a separate domain. Editorial prices are not offers."
+    },
+    {
+      "domain": "worten.pt",
+      "name": "Worten",
+      "roles": [
+        "seller",
+        "marketplace"
+      ],
+      "verticals": [
+        "computers",
+        "electronics",
+        "general",
+        "home",
+        "toys_baby"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 3,
+      "note": "Marketplace includes third-party sellers; confirm the seller and delivery at checkout."
     },
     {
       "domain": "yeppon.it",
@@ -7487,6 +7996,21 @@
       ],
       "countries": "global",
       "priority": 2
+    },
+    {
+      "domain": "zoomalia.pt",
+      "name": "ZOOMALIA Portugal",
+      "roles": [
+        "seller"
+      ],
+      "verticals": [
+        "pets"
+      ],
+      "countries": [
+        "PT"
+      ],
+      "priority": 2,
+      "note": "Prices and delivery fees depend on destination; subscription offers may differ."
     },
     {
       "domain": "zooplus.at",
